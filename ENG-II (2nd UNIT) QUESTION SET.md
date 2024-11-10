@@ -40,18 +40,13 @@
 4. Mrs. Ghosh was pleased to see Henry pop out of the papaya basket.  
 5. Henry escaped into a classroom when the teachers began screaming.
 
- #### **Section C: Short Answer Questions** (20 Marks)
-
-1. Why did Grandfather rescue Henry? What does this tell us about his character?
-2. Describe how the people at the garden gate reacted when they saw the chameleon. Why do you think they acted that way?
-3. What were Henry’s unique physical features, and how did they affect how people reacted to him?
-4. Describe how Henry managed to sneak into the school. Why was this incident funny?
-5. How did Grandfather and the narrator feel when they finally found Henry on the garden wall after his adventure? Explain why they might have felt this way.
-6. Explain the reaction of Mrs. Ghosh and her assistant when they saw Henry. How did their reactions affect Henry?
-7. What role did Grandmother play in sending Henry to the nursery school by mistake?
-8. Why did Henry only try to scare the narrator instead of actually biting him?
-9. How did the narrator’s patience affect his relationship with Henry? Give examples from the story.
-10. Why do you think Grandfather didn’t reveal to Mrs. Ghosh that Henry was their pet? What does this tell you about his character?
+ #### **Section C: Short Answer Questions** (10 Marks)
+ 
+1. Why did Grandfather rescue Henry? What does this tell us about his character?  
+2. Describe how the people at the garden gate reacted when they saw the chameleon. Why do you think they acted that way?  
+3. What were Henry’s unique physical features, and how did they affect how people reacted to him?  
+4. Explain the reaction of Mrs. Ghosh and her assistant when they saw Henry. How did their reactions affect Henry?  
+5. What role did Grandmother play in sending Henry to the nursery school by mistake?  
 
  #### **Section D: Long Answer Questions** (10 Marks)
 
