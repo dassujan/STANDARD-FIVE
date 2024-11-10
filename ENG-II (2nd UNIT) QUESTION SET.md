@@ -1,5 +1,3 @@
-### Question Set: **A Chameleon Named Henry**
-
  #### **Section A: Multiple Choice Questions** (5 Marks)
 
 1. **Why did people think the chameleon was dangerous?**  
