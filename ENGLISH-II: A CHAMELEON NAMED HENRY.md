@@ -11,6 +11,7 @@
 
    **Answer:** (a) They thought it could spit poison.  
    *Explanation:* People believed that the chameleon could poison people by spitting at them, but this was not true.
+ 
  2. **How did Henry’s eyes make him look strange?**
 
    - (a) They were very large.  
@@ -18,8 +19,9 @@
    - (c) They were bright red.  
    - (d) They looked like a human’s eyes.  
 
-   **Answer:** (b) They could move in different directions.  
-   *Explanation:* Henry’s eyes were his most remarkable possession. Each eyeball, bulging out of his head, wobbled up and down, backward and forward, and could move without disturbing the other eye.
+      **Answer:** (b) They could move in different directions.  
+      *Explanation:* Henry’s eyes were his most remarkable possession. Each eyeball, bulging out of his head, wobbled up and down, backward and forward, and could move without disturbing the other eye.
+ 
  3. **What did Henry do when he got angry?**
 
    - (a) He would hiss and puff himself up.  
@@ -27,8 +29,8 @@
    - (c) He would bite the speaker.  
    - (d) He would hide in a tree.  
 
-   **Answer:** (a) He would hiss and puff himself up.  
-   *Explanation:* When Henry got angry, he would blow himself up to an enormous size, sit on his hind legs, and sway from side to side. He would then open his mouth very wide and let out an angry hiss.
+      **Answer:** (a) He would hiss and puff himself up.  
+      *Explanation:* When Henry got angry, he would blow himself up to an enormous size, sit on his hind legs, and sway from side to side. He would then open his mouth very wide and let out an angry hiss.
  
 #### B. True/False Statements
 
