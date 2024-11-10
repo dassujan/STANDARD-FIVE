@@ -1,4 +1,4 @@
-### Question Set: **A Chameleon Named Henry** (30 Marks)
+### Question Set: **A Chameleon Named Henry**
 
  #### **Section A: Multiple Choice Questions** (5 Marks)
 
