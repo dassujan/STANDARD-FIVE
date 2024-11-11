@@ -6,55 +6,43 @@
    - (c) It was very large.  
    - (d) It had sharp teeth.
 
-2. How did Henry’s eyes make him look strange?  
-   - (a) They were very large.  
-   - (b) They could move in different directions.  
-   - (c) They were bright red.  
-   - (d) They looked like a human’s eyes.
-
-3. What did Henry do when he got angry?  
+2. What did Henry do when he got angry?  
    - (a) He would hiss and puff himself up.  
    - (b) He would run away quickly.  
    - (c) He would bite the speaker.  
    - (d) He would hide in a tree.
 
-4. Why did Henry escape into the classroom?  
+3. Why did Henry escape into the classroom?  
    - (a) He was being chased by the children.  
    - (b) The teachers screamed and scared him.  
    - (c) He wanted to explore.  
    - (d) He was hungry and searching for food.
 
-5. How did Henry manage to sneak into the nursery school?  
+4. How did Henry manage to sneak into the nursery school?  
    - (a) He walked into the school on his own.  
    - (b) He hid in a basket of papayas.  
    - (c) He followed the gardener.  
    - (d) He jumped over the school gate.
 
-6. What did Grandfather believe about Henry’s appearance?  
+5. What did Grandfather believe about Henry’s appearance?  
    - (a) Henry looked like a snake.  
    - (b) Henry looked friendly.  
    - (c) Henry looked like he could spit poison.  
    - (d) Henry looked very intelligent.
 
-7. Who screamed when Henry appeared in the office?  
-   - (a) The gardener  
-   - (b) Mrs. Ghosh  
-   - (c) The narrator  
-   - (d) Grandfather
-
-8. What role did Grandmother play in Henry’s journey to the nursery school?  
+6. What role did Grandmother play in Henry’s journey to the nursery school?  
    - (a) She sent Henry by mistake in the papaya basket.  
    - (b) She carried Henry to the garden.  
    - (c) She frightened Henry into hiding.  
    - (d) She gave Henry to the gardener.
 
-9. What did Henry’s unique eyes allow him to do?  
+7. What did Henry’s unique eyes allow him to do?  
    - (a) Fly quickly  
    - (b) Hide from humans  
    - (c) Look in two different directions  
    - (d) Find water easily
 
- 10. What did Grandfather do when he found out about Henry’s adventure?  
+ 8. What did Grandfather do when he found out about Henry’s adventure?  
    - (a) He scolded the narrator  
    - (b) He laughed and told Mrs. Ghosh it was a mistake  
    - (c) He sent Henry away  
