@@ -76,7 +76,7 @@
 
  ### E. Make Sentences
 
-   Chameleon,   Suspicious,   Escape,   Frightened,   Unique
+   Suspicious,   Escape,   Frightened,   Unique
 
  ### F. Read These Lines and Answer the Questions
  
@@ -112,8 +112,7 @@
 
 ### G. Think and Answer
 
-1. Why did Grandfather rescue Henry, and what does this tell us about his character?
-2. How did the narrator build trust with Henry over time? Give examples.
-3. Why do you think Grandmother sent the papaya basket with Henry to the school without realizing he was in it?
-4. How did Henry’s appearance and behavior lead to misunderstandings throughout the story?
-5. If Henry could talk, how might he describe his experience in the nursery school?
+1. How did the narrator build trust with Henry over time? Give examples.
+2. Why do you think Grandmother sent the papaya basket with Henry to the school without realizing he was in it?
+3. How did Henry’s appearance and behavior lead to misunderstandings throughout the story?
+4. If Henry could talk, how might he describe his experience in the nursery school?
