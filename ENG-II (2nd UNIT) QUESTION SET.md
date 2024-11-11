@@ -43,10 +43,10 @@
    - (d) Find water easily
 
  8. What did Grandfather do when he found out about Henry’s adventure?  
-   - (a) He scolded the narrator  
-   - (b) He laughed and told Mrs. Ghosh it was a mistake  
-   - (c) He sent Henry away  
-   - (d) He told Mrs. Ghosh that Henry was dangerous
+      - (a) He scolded the narrator  
+      - (b) He laughed and told Mrs. Ghosh it was a mistake  
+      - (c) He sent Henry away  
+      - (d) He told Mrs. Ghosh that Henry was dangerous
 
  ### C. Fill-in-the-Blanks Questions
 
