@@ -101,7 +101,7 @@
    - **Question:** How did the narrator’s patience affect his relationship with Henry?  
 
 10. “Henry tried to scare the narrator instead of actually biting him.”  
-   - **Question:** Why do you think Henry only tried to scare the narrator?
+      - **Question:** Why do you think Henry only tried to scare the narrator?
 
 ### G. Think and Answer
 
