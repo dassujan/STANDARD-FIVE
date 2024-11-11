@@ -88,11 +88,7 @@
 
  ### E. Make Sentences
 
-1. Chameleon
-2. Suspicious
-3. Escape
-4. Frightened
-5. Unique
+   Chameleon,   Suspicious,   Escape,   Frightened,   Unique
 
  ### F. Read These Lines and Answer the Questions
  
