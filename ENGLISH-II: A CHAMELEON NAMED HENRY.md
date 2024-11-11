@@ -100,7 +100,3 @@
 
 2. **Henry’s behavior and appearance caused confusion and fear in people who didn’t know him. How does this story show the theme of misunderstanding? Provide examples.**  
    - **Answer:** The story shows misunderstanding when people at the garden gate thought Henry could poison them just by spitting, even though it wasn’t true. Similarly, Mrs. Ghosh and the teachers at the school screamed when they saw him, not knowing he was harmless. This shows how fear and lack of knowledge can lead to misunderstandings.
-
-3. **Imagine Henry could talk. How do you think he would describe his adventure at the nursery school? Write a short paragraph from Henry’s point of view.**  
-   - **Answer:** “I was just enjoying the quiet at home when suddenly I was stuck in a basket of papayas. I didn’t know where I was going, but when I popped out of the basket, everyone screamed! I was scared and ran around the school. It was so confusing, and I just wanted to get back to my garden. After a lot of running, I finally found my way back. I’m glad it’s over!”
- 
