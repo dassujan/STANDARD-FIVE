@@ -1,70 +1,71 @@
- ### **A. Multiple-Choice Questions (MCQs)**  
-1. Fertilisation occurs:  
-   (a) after pollination  
-   (b) before pollination  
-   (c) after seed formation  
-   (d) after fruit formation  
-2. The male gametes travel down the pollen tube into the:  
-   (a) stigma  
-   (b) style  
-   (c) ovary  
-   (d) anther  
-3. Seeds dispersed by wind generally have:  
-   (a) hooks  
-   (b) fibrous coats  
-   (c) wings or hair  
-   (d) spongy fruits  
-4. In Bryophyllum, new plants grow from:  
+ ### **Section A: Multiple Choice Questions (1 × 5 = 5 Marks)**  
+Tick (✔) the correct answer.  
+1. Fertilisation occurs  
+   (a) after seed formation  
+   (b) after pollination  
+   (c) after fruit formation  
+   (d) before pollination  
+2. The ovary of a flower develops into a  
+   (a) seed  
+   (b) fruit  
+   (c) fruit wall  
+   (d) embryo  
+3. Seeds of cotton are dispersed by  
+   (a) water  
+   (b) explosion  
+   (c) animals  
+   (d) air  
+4. Plants like ferns reproduce through  
+   (a) flowers  
+   (b) spores  
+   (c) leaves  
+   (d) roots  
+5. Bryophyllum reproduces through  
    (a) roots  
    (b) leaves  
    (c) stems  
-   (d) flowers  
-5. Which of these plants reproduce using spores?  
-   (a) Rose  
-   (b) Fern  
-   (c) Coconut  
-   (d) Hibiscus  
-6. The ovule inside the ovary develops into a:  
-   (a) fruit  
-   (b) seed  
-   (c) pollen grain  
-   (d) bud
-   
- ### **B. Fill-in-the-Blanks Questions**  
-1. The fusion of male and female gametes is called _______.  
-2. _______ and _______ are plants whose seeds are dispersed by water.  
-3. _______ and _______ are agents of seed dispersal.  
-4. The bright color of the flower is lost after _______.  
-5. _______ plants can grow from roots like sweet potato and _______.  
-6. The small seed-like structures found in ferns are called _______.
-   
- ### **C. True/False Statements**  
-1. The pollen tube grows upward into the style.
-2. Seeds dispersed by animals sometimes pass through the gut of animals undigested. 
-3. Potato and onion reproduce vegetatively through roots. 
-4. Fruits like poppy and okra disperse their seeds through explosion. 
-5. The petals and stamens of a flower fall off after fertilisation. 
-6. Seeds of dandelion and maple are dispersed by water.
+   (d) spores
 
- ### **D. Short Answer Questions**  
-1. What are the steps involved in sexual reproduction in plants?  
-2. Explain seed dispersal by animals with examples.  
-3. Describe the changes that occur in a flower after fertilisation.  
-4. What is vegetative reproduction? Provide two examples of plants grown from leaves.  
-5. How are spores different from seeds?  
-6. Why is seed dispersal necessary for plants?
-7. Why do seeds need to scatter away from the parent plant?
-8. Give two differences between sexual and vegetative reproduction in plants. 
+ ### **Section B: Fill in the Blanks (1 × 5 = 5 Marks)**  
+1. Female gamete is present inside the ______.  
+2. The seeds of lotus are dispersed by ______.  
+3. After fertilisation, the ______ develops into seeds.  
+4. ______ and ______ are agents of seed dispersal by air.  
+5. Seeds of poppy are dispersed by ______.
 
- ### **E. Broad Questions**  
-1. Define fertilisation. Describe the events that occur during this process in plants.  
-2. Compare and contrast seed dispersal by wind and water, with suitable examples.  
-3. Explain the role of roots, stems, and leaves in vegetative reproduction, with examples for each.  
-4. Discuss the life cycle of a plant, starting from seed formation to a mature plant.  
-5. Write a note on seed dispersal through explosion, giving examples of plants.  
-6. What is the importance of sexual reproduction in plants?
+ ### **Section C: Match the Following (1 × 5 = 5 Marks)**  
+| Column A                 | Column B            |  
+|--------------------------|---------------------|  
+| 1. Coconut               | (a) Dispersed by animals |  
+| 2. Pollen tube           | (b) Fruit wall        |  
+| 3. Maple seed            | (c) Dispersed by wind  |  
+| 4. Fusion of gametes     | (d) Fertilisation      |  
+| 5. Ovary wall            | (e) Dispersed by water |
 
- ### **F. Draw and Label Diagram Questions**  
+ ### **Section D: Short Answer Questions (2 × 5 = 10 Marks)**  
+1. What is fertilisation? Name its three steps.  
+2. Give two examples of seeds dispersed by air.  
+3. State two differences between sexual and vegetative reproduction in plants.  
+4. Describe the changes in a flower after fertilisation.  
+5. What are spores? Name two plants that reproduce using spores.
+
+ ### **Section E: Long Answer Questions (5 × 3 = 15 Marks)**  
+1. Explain the process of seed dispersal by water and animals with examples.  
+2. How does a plant reproduce vegetatively from stems? Explain with an example.  
+3. Why is seed dispersal important? Discuss the different methods of seed dispersal.
+
+ ### **Section F: True or False (1 × 5 = 5 Marks)**  
+1. Onion reproduces vegetatively through roots.  
+2. Seeds of drumstick are dispersed by water.  
+3. Pollination is necessary before fertilisation.  
+4. Seeds of guava are dispersed by explosion.  
+5. The ovary wall of a flower develops into the fruit wall.  
+
+### **Section G: Give Reasons (2 × 2.5 = 5 Marks)**  
+1. Why do seeds need to be scattered over a wide area?  
+2. Why are coconut trees commonly found in coastal areas?  
+
+ ### **Section F: Draw and Label Diagram Questions (2.5 × 2 = 5 Marks)**
 1. Draw and label **seed structure of kidney bean**.
 2. Draw and label the **life cycle of a flowering plant**.
 3. Draw and label the **process of fertilisation** in a flower (show pollen tube, ovary, ovule).  
