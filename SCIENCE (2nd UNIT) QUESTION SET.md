@@ -65,7 +65,7 @@ Tick (✔) the correct answer.
 1. Why do seeds need to be scattered over a wide area?  
 2. Why are coconut trees commonly found in coastal areas?  
 
-### **Section F: Draw and Label Diagram Questions (2.5 × 2 = 5 Marks)**
+### **Section F: Draw and Label Diagram Questions (1 × 5 = 5 Marks)**
 1. Draw and label **seed structure of kidney bean**.
 2. Draw and label the **life cycle of a flowering plant**.
 3. Draw and label the **process of fertilisation** in a flower (show pollen tube, ovary, ovule).  
