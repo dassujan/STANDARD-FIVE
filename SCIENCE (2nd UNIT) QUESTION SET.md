@@ -53,6 +53,8 @@
 4. What is vegetative reproduction? Provide two examples of plants grown from leaves.  
 5. How are spores different from seeds?  
 6. Why is seed dispersal necessary for plants?
+7. Why do seeds need to scatter away from the parent plant?
+8. Give two differences between sexual and vegetative reproduction in plants. 
 
  ### **E. Broad Questions**  
 1. Define fertilisation. Describe the events that occur during this process in plants.  
