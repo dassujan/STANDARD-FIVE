@@ -101,9 +101,6 @@
 2. **Henry’s behavior and appearance caused confusion and fear in people who didn’t know him. How does this story show the theme of misunderstanding? Provide examples.**  
    - **Answer:** The story shows misunderstanding when people at the garden gate thought Henry could poison them just by spitting, even though it wasn’t true. Similarly, Mrs. Ghosh and the teachers at the school screamed when they saw him, not knowing he was harmless. This shows how fear and lack of knowledge can lead to misunderstandings.
 
-Here are additional important questions and answers from the data you shared, simplified and carefully designed for Class 5 ICSE students. These are in easy and clear language, suitable for exams:
-
-
 
 # **COMPREHENSION: UNDERGROUND**
 
