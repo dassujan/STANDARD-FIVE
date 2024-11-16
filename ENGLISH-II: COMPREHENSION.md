@@ -1,4 +1,4 @@
-### **COMPREHENSION: A CHAMELEON NAMED HENRY**
+# **COMPREHENSION: A CHAMELEON NAMED HENRY**
 
 #### A. Multiple Choice Questions
 
@@ -100,3 +100,51 @@
 
 2. **Henry’s behavior and appearance caused confusion and fear in people who didn’t know him. How does this story show the theme of misunderstanding? Provide examples.**  
    - **Answer:** The story shows misunderstanding when people at the garden gate thought Henry could poison them just by spitting, even though it wasn’t true. Similarly, Mrs. Ghosh and the teachers at the school screamed when they saw him, not knowing he was harmless. This shows how fear and lack of knowledge can lead to misunderstandings.
+
+Here are additional important questions and answers from the data you shared, simplified and carefully designed for Class 5 ICSE students. These are in easy and clear language, suitable for exams:
+
+
+
+# **COMPREHENSION: UNDERGROUND**
+
+**1. Who lives in the underground world?**  
+- Rabbits, moles, ants, and other creatures live in the underground world.
+
+**2. How do the ants build their 'empires'?**  
+- The ants dig into the ground and run to and fro to grow their populous empires.
+
+**3. What do hibernating animals do underground?**  
+- Hibernating animals find a secure and warm spot underground. They do not work and stay still during the winter.
+
+**4. What happens when a fork or spade is used?**  
+- A fork or spade disturbs the creatures living peacefully underground.
+
+**5. Why are rocks and stones called 'earth's gigantic bones'?**  
+- Rocks and stones are called 'earth's gigantic bones' because they are deep below the surface and form a tough layer like bones in a body.
+ ### **Read the Lines and Answer the Questions**
+
+**1. Do they, as I pass overhead, / Stop in their work to hear my tread?**  
+a. **Who is 'they' in this line?**  
+   - 'They' refers to the ants.  
+b. **What does the poet wonder about the ants?**  
+   - The poet wonders if the ants stop working to listen to his footsteps when he walks above the ground.
+
+**2. Secure and warm beneath the soil / Sometimes a fork or spade intrudes.**  
+a. **What does 'secure and warm' refer to?**  
+   - It refers to the safety and warmth that creatures feel underground.  
+b. **What does the fork or spade do?**  
+   - The fork or spade disturbs the creatures living underground.
+ ### **Think and Answer**
+
+**1. Why does the poet call the underground world marvellous?**  
+- The underground world is marvellous because it is full of life. Animals like ants, moles, and rabbits live and work there, and even tree roots spread down into the soil, showing how active and interesting it is.
+
+**2. How does the poet describe life underground as both quiet and busy?**  
+- The underground is quiet because there is little sound. It is busy because ants run to and fro to build empires, and rabbits and moles explore and dig burrows.
+
+ ### **Rhyming Words**
+**Find two words from the poem that rhyme with each of these:**  
+a. **sound**: ground, found  
+b. **tread**: spread, read  
+c. **stones**: bones, cones  
+d. **know**: fro, go  
