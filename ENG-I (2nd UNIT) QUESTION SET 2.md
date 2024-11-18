@@ -1,4 +1,4 @@
-### **Question Set 1** (80 Marks)
+### **Question Set 1** (60 Marks)
 
 #### **1. Fill in the blanks with the correct form of the verb.**  
 *(10 × 2 = 20 Marks)*  
@@ -26,7 +26,7 @@
 9. They cut down the tree. *(Rewrite in Future Continuous Tense)*  
 10. It rained heavily yesterday. *(Rewrite in Present Continuous Tense)*  
  
-#### **4. Complete the sentences with suitable tense forms.**  
+#### **3. Complete the sentences with suitable tense forms.**  
 *(5 × 2 = 10 Marks)*  
 1. The sky ___ (grow) dark when the lights went out.  
 2. I ___ (go) to the station tomorrow morning.  
@@ -34,7 +34,7 @@
 4. We ___ (play) cricket tomorrow afternoon.  
 5. She ___ (use) crayons to draw this picture yesterday.  
  
-### **Question Set 2** (80 Marks)
+### **Question Set 2** (60 Marks)
 
 #### **1. Fill in the blanks with the correct form of the verb.**  
 *(10 × 2 = 20 Marks)*  
@@ -62,7 +62,7 @@
 9. They are playing football. *(Rewrite in Past Continuous Tense)*  
 10. I slept well in the afternoon. *(Rewrite in Future Continuous Tense)*  
  
-#### **4. Complete the sentences with suitable tense forms.**  
+#### **3. Complete the sentences with suitable tense forms.**  
 *(5 × 2 = 10 Marks)*  
 1. The students ___ (read) their lessons yesterday evening.  
 2. They ___ (stand) in the queue to buy tickets tomorrow.  
