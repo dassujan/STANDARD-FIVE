@@ -43,7 +43,7 @@
 10. Out of 3200 Siberian cranes, 75% migrated to Bharatpur, India. How many cranes migrated? *(2 Marks)*  
 
 11. In a garden of 20 trees:  
-   - 20% are tamarind, 10% are guava, and 40% are neem. The remaining are mango trees.  
+   - 20% are tamarind, 10% are guava, and 40% are neem. Find the remaining mango trees.  
    - Find the number of trees of each type. *(4 Marks)*  
 
 12. A student scored 570 marks out of 600 in an exam. What is the percentage of marks scored? *(2 Marks)*  
@@ -75,4 +75,4 @@ Answer the following:     *(6 Marks)*
 
 19. If 500 mL of milk is consumed out of a 1-litre bottle, what percentage of the milk remains? *(2 Marks)*  
 
-20. An exam has 20 questions. Out of these, 12 questions were multiple-choice, and the rest were descriptive. What percentage of questions were multiple-choice and descriptive? (3 Marks)
+20. An exam has 20 questions. Out of these, 13 questions were multiple-choice, and the rest were descriptive. What percentage of questions were multiple-choice and descriptive? (3 Marks)
