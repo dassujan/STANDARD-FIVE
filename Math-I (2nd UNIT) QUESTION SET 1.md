@@ -21,9 +21,9 @@
    - (i) 65%  
    - (ii) 47%  
 
-6. Shade the given 10 × 10 grid to represent the following percentages:  
-   - (i) 14%  
-   - (ii) 96%  
+6. Find the percentage of the given numbers:
+   - (i) 55% of 200
+   - (ii) 25% of ₹500
 
 7. Express the following as percentages:  
    - (i) 5 cm of 1 metre  
@@ -74,3 +74,5 @@ Answer the following:     *(6 Marks)*
    - (ii) 20, and a student scored 15 marks. *(4 Marks)*  
 
 19. If 500 mL of milk is consumed out of a 1-litre bottle, what percentage of the milk remains? *(2 Marks)*  
+
+20. An exam has 20 questions. Out of these, 12 questions were multiple-choice, and the rest were descriptive. What percentage of questions were multiple-choice and descriptive? (3 Marks)
