@@ -52,16 +52,22 @@
 | 4. Outbox  | d) Stores deleted emails |  
 | 5. Spam    | e) Contains unsent emails |  
  
-#### **Section E: Short Answer Questions**  (2 × 5 = 10 Marks)  
+#### **Section E: Short Answer Questions**  (2 × 10 = 20 Marks)  
 
 1. What is an email address? Write its two main components.  
-2. What is the use of the Cc and Bcc fields while sending an email?  
-3. What is the purpose of the Spam folder in an email account?  
-4. How do you attach a file to an email?  
-5. Why is a username important in an email account?
+2. What is the use of the Bcc fields while sending an email?
+3. What is the use of the Cc fields while sending an email?
+4. What is the purpose of the Spam folder in an email account?  
+5. How do you attach a file to an email?
+6. Describe the steps to reply to an email using Gmail.
+7. Why is a username important in an email account?
+8. Write three things you can do using the Internet.
+9. Mention three rules for creating a valid email username.
+10. Why is it important to choose a strong password for your email account?
  
-#### **Section F: Long Answer Questions**  (5 × 3 = 15 Marks)  
+#### **Section F: Long Answer Questions** *(Answer any 2)*  (5 × 2 = 10 Marks)  
 
 1. Write the step-by-step process of creating a Gmail account.  
 2. Explain the different folders in an email account and their purpose.  
-3. List any five uses of the Internet and explain how email is an important Internet service.  
+3. List any five uses of the Internet and explain how email is an important Internet service.
+4. Describe the process of sending an email, including how to add recipients and a subject line.
