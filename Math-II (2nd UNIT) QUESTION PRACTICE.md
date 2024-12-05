@@ -1,4 +1,4 @@
-```markdown
+
 # **Perimeter and Area Problems**
 
 ## **Section A: Perimeter and Formulas**
@@ -9,17 +9,13 @@
 
 ### 2. Story Sum  
 Mr. Sharma walks around a rectangular park every morning. The length of the park is 220 m, and the breadth is 100 m. How much distance does he walk every morning if he completes one round of the park?  
-
----
-
+ 
 ## **Section B: Area of Regular and Composite Shapes**
 
 ### 3. Short Problems  
 (a) Find the area of a square whose side is 12 cm.  
 (b) Find the area of a rectangle with a length of 15.5 cm and a breadth of 8.2 cm.  
-
----
-
+ 
 ## **Section C: Application-Based Problems**
 
 ### 4. Word Problems  
@@ -28,9 +24,7 @@ Mr. Sharma walks around a rectangular park every morning. The length of the park
 
 ### Bonus Question (Optional)  
 A square field has a side of 45 m. Find how much distance Namrata walks if she completes 3 rounds of the field.  
-
----
-
+ 
 ## **Section D: Composite Figures and Irregular Shapes**
 
 ### 5. Half and Whole Squares  
@@ -45,9 +39,7 @@ Calculate the area of a shape with 20 whole squares and 10 half squares.
    - The area of the park  
    - The area of the flower bed  
    - The remaining area after removing the flower bed  
-
----
-
+ 
 ## **Section E: Application and Word Problems**
 
 ### 7. Real-Life Scenarios  
@@ -62,9 +54,7 @@ A rectangular park has a length of 50 m and a breadth of 30 m. Find the total di
 ### 9. Triangular Problems  
 (a) A triangle has a base of 12 m and a height of 8 m. Calculate its area.  
 (b) Calculate the cost of planting grass on the triangular field at ₹5 per square meter.  
-
----
-
+ 
 ## **Section F: Additional Perimeter and Area Questions**
 
 ### 10. Basic Questions  
@@ -95,9 +85,7 @@ A rectangular park has a length of 50 m and a breadth of 30 m. Find the total di
    Approximate the area of the figure.  
 
 (b) A figure has 8 full squares and 4 half squares. Find its total area using the grid method.  
-
----
-
+ 
 ## **Section G: Challenging Problems**
 
 ### 14. Real-Life Application  
@@ -113,9 +101,7 @@ A rectangular park has a length of 50 m and a breadth of 30 m. Find the total di
 A rectangular hall measures 25 m in length and 12 m in breadth.  
    - Find the area of the hall.  
    - If the cost of tiling the floor is ₹150 per square meter, calculate the total cost of tiling.  
-
----
-
+ 
 ## **Bonus Section**
 
 ### 16. Distance and Fencing  
@@ -123,4 +109,3 @@ A square garden has a side of 25 m. Calculate:
 (a) The perimeter of the garden.  
 (b) The total distance Namrata covers if she walks around it **3 times**.  
 (c) How much fencing material is required to enclose the garden twice?  
-```
