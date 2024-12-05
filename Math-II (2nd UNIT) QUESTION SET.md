@@ -1,114 +1,55 @@
-# Geometry Worksheet
+### **Section A: Short Answer Questions** *(Answer all questions)*  **(10 × 1 = 10 Marks)**  
 
-## **Section A: Perimeter and Formulas**
+1. Write the formula for:  
+   a) Perimeter of a square  
+   b) Perimeter of a rectangle  
 
-### 1. Fill in the Blanks  
-(a) The perimeter of a square is calculated using the formula **__________.**  
-(b) The perimeter of a rectangle is given by the formula **__________.**
+2. Find the area of a square with a side of 12 m.  
 
-### 2. Short Answer Questions  
-(a) Find the perimeter of a triangle with sides 4 cm, 5 cm, and 6 cm.  
-(b) A rectangle has a length of 12 cm and a breadth of 6 cm. Find its perimeter.  
+3. What is the perimeter of a triangle with sides 5 cm, 7 cm, and 10 cm?  
 
-### 3. Story Sum  
-Mr. Sharma walks around a rectangular park every morning. The length of the park is 220 m, and the breadth is 100 m. How much distance does he walk every morning if he completes one round of the park?  
+4. Calculate the area of a rectangle with a length of 10 cm and a breadth of 5 cm.  
+
+5. A square-shaped garden has a side length of 15 m. Find its perimeter.  
+
+6. Find the perimeter of a rectangle whose length is 18 cm and breadth is 10 cm.  
+
+7. Find the area and perimeter of a rectangular board that is 12 cm long and 8 cm wide. 
+
+8. A rectangle has an area of 48 square meters. If the length is 8 m, find the breadth.  
+
+9. How much distance will a person walk after completing 3 rounds of a rectangular park with dimensions 50 m × 30 m?  
+
+10. The side of a square tile is 25 cm. What is its area?  
  
-## **Section B: Area of Regular and Composite Shapes**
+### **Section B: Application-Based Questions** *(Answer all questions)*  **(5 × 6 = 30 Marks)**  
 
-### 4. Short Problems  
-(a) Find the area of a square whose side is 12 cm.  
-(b) Find the area of a rectangle with a length of 15.5 cm and a breadth of 8.2 cm.  
+1. A fence is to be built around a rectangular field 100 m long and 80 m wide. Find the total length of the fence required.  
+
+2. Sanjay wants to cover a square-shaped table with a tablecloth. The side of the table is 90 cm. What is the area of the tablecloth?  
+
+3. A composite figure is divided into two rectangles:  
+   - Rectangle A: length = 6 cm, breadth = 3 cm  
+   - Rectangle B: length = 4 cm, breadth = 2 cm  
+   Find the total area of the figure.  
+
+4. Sanjana has created a rectangular playing field for her dog. The length is 10 m and the breadth is 7 m. Calculate the perimeter of the playing field.
+
+5. A garden in the shape of a square has a side of 40 m. A path of 2 m width runs around the inside of the garden. Find the area of the path.  
+
+6. A triangular piece of land has sides measuring 6 m, 8 m, and 10 m. What is its perimeter?  
  
-## **Section C: Application-Based Problems**
+### **Section C: Problem-Solving Questions** *(Answer any 4)* **(4 × 5 = 20 Marks)**  
 
-### 5. Word Problems  
-(a) Sanjana has created a rectangular playing field for her dog. The length of the field is 10 m, and the breadth is 7 m. Find its perimeter.  
-(b) Mona needs to fix lace around a blanket of length 150 cm and breadth 110 cm. How much lace will she need?  
+1. A park is rectangular in shape with dimensions 100 m × 50 m. Inside the park, there is a square playground of side 30 m. Find the area of the remaining portion of the park.  
 
-### Bonus Question (Optional)  
-A square field has a side of 45 m. Find how much distance Namrata walks if she completes 3 rounds of the field.  
- 
-## **Section D: Composite Figures and Irregular Shapes**
+2. A given irregular shape covers:  
+   - 18 full squares  
+   - 8 half squares  
+   Find the approximate area of the shape using the grid method.  
 
-### 6. Half and Whole Squares  
-Calculate the area of a shape with 20 whole squares and 10 half squares.  
+3. A rectangular hall is 15 m long and 10 m wide. A carpet of size 12 m × 8 m is spread in the center of the hall. Find the area of the floor not covered by the carpet.  
 
-### 7. Composite Figures  
-(a) Divide a composite figure into smaller rectangles and calculate the total area. Example:  
-- Rectangle A: (l = 4, b = 3)  
-- Rectangle B: (l = 5, b = 2)  
+4. A composite figure is made up of a square and a rectangle. The square has a side of 5 cm, and the rectangle has a length of 8 cm and a breadth of 3 cm. Find the total area of the figure.  
 
-(b) A rectangular park has a length of 30 m and a breadth of 20 m. Inside, a smaller rectangular flower bed measures 10 m by 5 m. Find:  
-- The area of the park  
-- The area of the flower bed  
-- The remaining area after removing the flower bed  
- 
-## **Section E: Application and Word Problems**
-
-### 8. Real-Life Scenarios  
-(a) Raj's rectangular garden has a length of 25 m and a breadth of 15 m. Find the area of his garden.  
-(b) A rectangular hall has a length of 15 m and a breadth of 10 m. A carpet costs ₹100 per square meter.  
-- Find the area of the hall.  
-- Calculate the total cost of carpeting the entire hall.  
-
-### 9. Story Problem  
-A rectangular park has a length of 50 m and a breadth of 30 m. Find the total distance covered if someone walks around it twice.  
-
-### 10. Triangular Problems  
-(a) A triangle has a base of 12 m and a height of 8 m. Calculate its area.  
-(b) Calculate the cost of planting grass on the triangular field at ₹5 per square meter.  
- 
-## **Section F: Additional Perimeter and Area Questions**
-
-### 11. Basic Questions  
-(a) Find the perimeter of a square whose side is 8 cm.  
-(b) Calculate the area of a rectangle with a length of 12 m and a breadth of 8 m.  
-(c) The perimeter of a rectangle is 30 cm. If the length is 8 cm, find the breadth.  
-
-### 12. Composite Shapes  
-(a) A composite figure consists of:  
-- Rectangle A: (l = 5, b = 2)  
-- Rectangle B: (l = 4, b = 3)  
-Find the total area of the figure.  
-
-(b) Divide a composite figure into two parts:  
-- Rectangle 1: (l = 7, b = 3)  
-- Rectangle 2: (l = 2, b = 2)  
-Calculate the area of both parts and the total area of the figure.  
-
-### 13. Grid-Based Area Problems  
-(a) Refer to Exercise 10.6:  
-- Shape (2): 24 unit squares. Find the area.  
-- Shape (4): 12 unit squares. Find the area.  
-
-### 14. Irregular Shapes  
-(a) A figure contains:  
-- 24 full squares  
-- 10 half squares (2 half squares = 1 full square)  
-Approximate the area of the figure.  
-
-(b) A figure has 8 full squares and 4 half squares. Find its total area using the grid method.  
- 
-## **Section G: Challenging Problems**
-
-### 15. Real-Life Application  
-(a) The perimeter of a rectangular garden is 60 m. If the length is 20 m, find:  
-- The breadth  
-- The area of the garden  
-
-(b) A triangular field has a base of 12 m and a height of 8 m.  
-- Find the area of the field  
-- Calculate the cost of planting grass on the field at ₹5 per square meter  
-
-### 16. Cost and Application  
-A rectangular hall measures 25 m in length and 12 m in breadth.  
-- Find the area of the hall.  
-- If the cost of tiling the floor is ₹150 per square meter, calculate the total cost of tiling.  
- 
-## **Bonus Section**
-
-### 17. Distance and Fencing  
-A square garden has a side of 25 m. Calculate:  
-(a) The perimeter of the garden.  
-(b) The total distance Namrata covers if she walks around it **3 times**.  
-(c) How much fencing material is required to enclose the garden twice?  
+5. A park is rectangular with a length of 220 m and a breadth of 100 m. Calculate its perimeter and area.
