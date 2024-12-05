@@ -1,78 +1,112 @@
- **Section A: Mental Maths** *(20 Marks)*  
-**(Each question carries 2 marks)**  
+## **Section A: Perimeter and Formulas**
 
-1. Find the percentage of the shaded portion in a 10 × 10 grid if:  
-   - (i) 48 squares are shaded.  
-   - (ii) 72 squares are shaded.  
+### 1. Fill in the Blanks  
+(a) The perimeter of a square is calculated using the formula **__________.**  
+(b) The perimeter of a rectangle is given by the formula **__________.**
 
-2. Convert the following fractions to percentages:  
-   - (i) 19/100
-   - (ii) 7/20 
+### 2. Short Answer Questions  
+(a) Find the perimeter of a triangle with sides 4 cm, 5 cm, and 6 cm.  
+(b) A rectangle has a length of 12 cm and a breadth of 6 cm. Find its perimeter.  
 
-3. Convert the following percentages to fractions (reduce to their lowest terms):  
-   - (i) 90%  
-   - (ii) 28%  
-
-4. Convert the following decimals to percentages:  
-   - (i) 0.82  
-   - (ii) 1.12  
-
-5. Convert the following percentages to decimals:  
-   - (i) 65%  
-   - (ii) 47%  
-
-6. Find the percentage of the given numbers:
-   - (i) 55% of 200
-   - (ii) 25% of ₹500
-
-7. Express the following as percentages:  
-   - (i) 5 cm of 1 metre  
-   - (ii) 900 g of 1 kg  
+### 3. Story Sum  
+Mr. Sharma walks around a rectangular park every morning. The length of the park is 220 m, and the breadth is 100 m. How much distance does he walk every morning if he completes one round of the park?  
  
-### **Section B: Application-based Questions** *(20 Marks)*  
+## **Section B: Area of Regular and Composite Shapes**
 
-8. Find the following percentages of numbers:     *(6 Marks)* 
-   - (i) 25% of 60  
-   - (ii) 85% of 1200  
-   - (iii) 32% of 200 cm   
-
-9. Solve the following:     *(4 Marks)*  
-   - (i) A carton contains 1000 glasses. During transport, 5% of the glasses broke. How many glasses were unbroken?  
-   - (ii) Grandfather gave ₹500 to Aakash, who spent ₹250. What percentage of the money did Aakash spend?  
-
-10. Out of 3200 Siberian cranes, 75% migrated to Bharatpur, India. How many cranes migrated? *(2 Marks)*  
-
-11. In a garden of 20 trees:  
-   - 20% are tamarind, 10% are guava, and 40% are neem. Find the remaining mango trees.  
-   - Find the number of trees of each type. *(4 Marks)*  
-
-12. A student scored 570 marks out of 600 in an exam. What is the percentage of marks scored? *(2 Marks)*  
-
-13. An English test was conducted out of 80 marks. Vani scored 90%, Tanya scored 85%, and Pranoy scored 82.5%. Find the marks scored by each. *(2 Marks)*  
+### 4. Short Problems  
+(a) Find the area of a square whose side is 12 cm.  
+(b) Find the area of a rectangle with a length of 15.5 cm and a breadth of 8.2 cm.  
  
-### **Section C: Higher-Order Thinking Questions** *(20 Marks)*  
+## **Section C: Application-Based Problems**
 
-14. The pie chart below shows the choices of 40 students for an educational trip:  
-   - Nature Walk: 50%  
-   - History Museum: 30%  
-   - Science Museum: 10%  
-   - Art Gallery: 10%  
+### 5. Word Problems  
+(a) Sanjana has created a rectangular playing field for her dog. The length of the field is 10 m, and the breadth is 7 m. Find its perimeter.  
+(b) Mona needs to fix lace around a blanket of length 150 cm and breadth 110 cm. How much lace will she need?  
 
-Answer the following:     *(6 Marks)*  
-   - (i) How many students chose Nature Walk?  
-   - (ii) How many students chose Science Museum?  
-   - (iii) How many students wanted to visit the Art Gallery?  
+### Bonus Question (Optional)  
+A square field has a side of 45 m. Find how much distance Namrata walks if she completes 3 rounds of the field.  
+ 
+## **Section D: Composite Figures and Irregular Shapes**
 
-15. Solve the story sum: During the COVID-19 outbreak, Indian Railways converted 500 coaches into isolation wards in Delhi, out of which 250 coaches were at Anand Vihar. What percentage of the coaches were stationed at Anand Vihar? *(2 Marks)*  
+### 6. Half and Whole Squares  
+Calculate the area of a shape with 20 whole squares and 10 half squares.  
 
-16. Express 50 g as a percentage of 5 kg. *(2 Marks)*  
+### 7. Composite Figures  
+(a) Divide a composite figure into smaller rectangles and calculate the total area. Example:  
+- Rectangle A: (l = 4, b = 3)  
+- Rectangle B: (l = 5, b = 2)  
 
-17. A word contains 11 letters, of which 4 are vowels. What percentage of the letters are vowels? *(2 Marks)*  
+(b) A rectangular park has a length of 30 m and a breadth of 20 m. Inside, a smaller rectangular flower bed measures 10 m by 5 m. Find:  
+- The area of the park  
+- The area of the flower bed  
+- The remaining area after removing the flower bed  
+ 
+## **Section E: Application and Word Problems**
 
-18. Find the percentage of marks scored in a test where the total marks are:  
-   - (i) 40, and a student scored 32 marks.  
-   - (ii) 20, and a student scored 15 marks. *(4 Marks)*  
+### 8. Real-Life Scenarios  
+(a) Raj's rectangular garden has a length of 25 m and a breadth of 15 m. Find the area of his garden.  
+(b) A rectangular hall has a length of 15 m and a breadth of 10 m. A carpet costs ₹100 per square meter.  
+- Find the area of the hall.  
+- Calculate the total cost of carpeting the entire hall.  
 
-19. If 500 mL of milk is consumed out of a 1-litre bottle, what percentage of the milk remains? *(2 Marks)*  
+### 9. Story Problem  
+A rectangular park has a length of 50 m and a breadth of 30 m. Find the total distance covered if someone walks around it twice.  
 
-20. An exam has 20 questions. Out of these, 13 questions were multiple-choice, and the rest were descriptive. What percentage of questions were multiple-choice and descriptive? (3 Marks)
+### 10. Triangular Problems  
+(a) A triangle has a base of 12 m and a height of 8 m. Calculate its area.  
+(b) Calculate the cost of planting grass on the triangular field at ₹5 per square meter.  
+ 
+## **Section F: Additional Perimeter and Area Questions**
+
+### 11. Basic Questions  
+(a) Find the perimeter of a square whose side is 8 cm.  
+(b) Calculate the area of a rectangle with a length of 12 m and a breadth of 8 m.  
+(c) The perimeter of a rectangle is 30 cm. If the length is 8 cm, find the breadth.  
+
+### 12. Composite Shapes  
+(a) A composite figure consists of:  
+- Rectangle A: (l = 5, b = 2)  
+- Rectangle B: (l = 4, b = 3)  
+Find the total area of the figure.  
+
+(b) Divide a composite figure into two parts:  
+- Rectangle 1: (l = 7, b = 3)  
+- Rectangle 2: (l = 2, b = 2)  
+Calculate the area of both parts and the total area of the figure.  
+
+### 13. Grid-Based Area Problems  
+(a) Refer to Exercise 10.6:  
+- Shape (2): 24 unit squares. Find the area.  
+- Shape (4): 12 unit squares. Find the area.  
+
+### 14. Irregular Shapes  
+(a) A figure contains:  
+- 24 full squares  
+- 10 half squares (2 half squares = 1 full square)  
+Approximate the area of the figure.  
+
+(b) A figure has 8 full squares and 4 half squares. Find its total area using the grid method.  
+ 
+## **Section G: Challenging Problems**
+
+### 15. Real-Life Application  
+(a) The perimeter of a rectangular garden is 60 m. If the length is 20 m, find:  
+- The breadth  
+- The area of the garden  
+
+(b) A triangular field has a base of 12 m and a height of 8 m.  
+- Find the area of the field  
+- Calculate the cost of planting grass on the field at ₹5 per square meter  
+
+### 16. Cost and Application  
+A rectangular hall measures 25 m in length and 12 m in breadth.  
+- Find the area of the hall.  
+- If the cost of tiling the floor is ₹150 per square meter, calculate the total cost of tiling.  
+ 
+## **Bonus Section**
+
+### 17. Distance and Fencing  
+A square garden has a side of 25 m. Calculate:  
+(a) The perimeter of the garden.  
+(b) The total distance Namrata covers if she walks around it **3 times**.  
+(c) How much fencing material is required to enclose the garden twice?  
