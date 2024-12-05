@@ -55,27 +55,14 @@ A square field has a side of 45 m. Find how much distance Namrata walks if she c
    (a) A triangle has a base of 12 m and a height of 8 m. Calculate its area.  
    (b) Calculate the cost of planting grass on the triangular field at ₹5 per square meter.  
 
-### **Section F: Grid-Based Area Problems**
+### **Section F: Additional Perimeter and Area Questions**
 
-11. **Count and Calculate**  
-   (a) A figure contains 18 full squares and 6 half squares. Find its approximate area.  
-   (b) An irregular shape on a grid covers:  
-   - 15 completely filled squares  
-   - 7 half squares  
-   - 4 squares less than half-filled (ignore these).  
-   Calculate its approximate area.  
-
-12. **Bonus Question**  
-   Sohan wants to build a rectangular fence for his garden. The length of the garden is 14 m, and the breadth is 9 m. How much fencing material will he need for **3 rounds** of the garden?  
-
-### **Section G: Additional Perimeter and Area Questions**
-
-13. **Basic Questions**  
+11. **Basic Questions**  
    (a) Find the perimeter of a square whose side is 8 cm.  
    (b) Calculate the area of a rectangle with a length of 12 m and a breadth of 8 m.  
    (c) The perimeter of a rectangle is 30 cm. If the length is 8 cm, find the breadth.  
 
-14. **Composite Shapes**  
+12. **Composite Shapes**  
    (a) A composite figure consists of:  
       - Rectangle A: (l = 5, b = 2)  
       - Rectangle B: (l = 4, b = 3)  
@@ -85,21 +72,21 @@ A square field has a side of 45 m. Find how much distance Namrata walks if she c
       - Rectangle 2: (l = 2, b = 2)  
       Calculate the area of both parts and the total area of the figure.  
 
-15. **Grid-Based Area Problems**  
+13. **Grid-Based Area Problems**  
    (a) Refer to Exercise 10.6:  
       - Shape (2): 24 unit squares. Find the area.  
       - Shape (4): 12 unit squares. Find the area.  
 
-16. **Irregular Shapes**  
+14. **Irregular Shapes**  
    (a) A figure contains:  
       - 24 full squares  
       - 10 half squares (2 half squares = 1 full square)  
       Approximate the area of the figure.  
    (b) A figure has 8 full squares and 4 half squares. Find its total area using the grid method.  
 
-### **Section H: Challenging Problems**
+### **Section G: Challenging Problems**
 
-17. **Real-Life Application**  
+15. **Real-Life Application**  
    (a) The perimeter of a rectangular garden is 60 m. If the length is 20 m, find:  
       - The breadth  
       - The area of the garden  
@@ -107,14 +94,14 @@ A square field has a side of 45 m. Find how much distance Namrata walks if she c
       - Find the area of the field  
       - Calculate the cost of planting grass on the field at ₹5 per square meter  
 
-18. **Cost and Application**  
+16. **Cost and Application**  
    A rectangular hall measures 25 m in length and 12 m in breadth.  
    - Find the area of the hall.  
    - If the cost of tiling the floor is ₹150 per square meter, calculate the total cost of tiling.  
 
 ### **Bonus Section**
 
-19. **Distance and Fencing**  
+17. **Distance and Fencing**  
    A square garden has a side of 25 m. Calculate:  
    (a) The perimeter of the garden.  
    (b) The total distance Namrata covers if she walks around it **3 times**.  
