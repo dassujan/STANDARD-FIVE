@@ -1,6 +1,3 @@
-
-# **Perimeter and Area Problems**
-
 ## **Section A: Perimeter and Formulas**
 
 ### 1. Short Answer Questions  
