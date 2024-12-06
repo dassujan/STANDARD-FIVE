@@ -55,8 +55,7 @@ Calculate the area of a shape with 20 whole squares and 10 half squares.
 A rectangular park has a length of 50 m and a breadth of 30 m. Find the total distance covered if someone walks around it twice.  
 
 ### 10. Triangular Problems  
-(a) A triangle has a base of 12 m and a height of 8 m. Calculate its area.  
-(b) Calculate the cost of planting grass on the triangular field at ₹5 per square meter.  
+Reema is designing a triangular garden with sides measuring 5 m, 7 m, and 8 m. She wants to place a fence around it. Find the total length of the fence needed to enclose the garden.
  
 ## **Section F: Additional Perimeter and Area Questions**
 
@@ -76,12 +75,7 @@ Find the total area of the figure.
 - Rectangle 2: (l = 2, b = 2)  
 Calculate the area of both parts and the total area of the figure.  
 
-### 13. Grid-Based Area Problems  
-(a) Refer to Exercise 10.6:  
-- Shape (2): 24 unit squares. Find the area.  
-- Shape (4): 12 unit squares. Find the area.  
-
-### 14. Irregular Shapes  
+### 13. Irregular Shapes  
 (a) A figure contains:  
 - 24 full squares  
 - 10 half squares (2 half squares = 1 full square)  
@@ -91,23 +85,19 @@ Approximate the area of the figure.
  
 ## **Section G: Challenging Problems**
 
-### 15. Real-Life Application  
-(a) The perimeter of a rectangular garden is 60 m. If the length is 20 m, find:  
+### 14. Real-Life Application  
+The perimeter of a rectangular garden is 60 m. If the length is 20 m, find:  
 - The breadth  
 - The area of the garden  
 
-(b) A triangular field has a base of 12 m and a height of 8 m.  
-- Find the area of the field  
-- Calculate the cost of planting grass on the field at ₹5 per square meter  
-
-### 16. Cost and Application  
+### 15. Cost and Application  
 A rectangular hall measures 25 m in length and 12 m in breadth.  
 - Find the area of the hall.  
 - If the cost of tiling the floor is ₹150 per square meter, calculate the total cost of tiling.  
  
 ## **Bonus Section**
 
-### 17. Distance and Fencing  
+### 16. Distance and Fencing  
 A square garden has a side of 25 m. Calculate:  
 (a) The perimeter of the garden.  
 (b) The total distance Namrata covers if she walks around it **3 times**.  
