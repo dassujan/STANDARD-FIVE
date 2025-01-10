@@ -1,4 +1,6 @@
-# The Happy Prince
+# ENG READER
+
+## The Happy Prince
 
  **Word List with Meanings and Sentences**
 
@@ -171,3 +173,40 @@ b. **What was the Prince’s reaction?**
 
 **10. Why did the little swallow die?**  
 - **Answer:** The little swallow died because he stayed in the cold winter to help the Happy Prince and became too weak.
+
+
+# ENG-I Paragraph
+
+### **1. Write a paragraph on the topic "Knowledge is Power"**.
+
+- **Answer:** Knowledge is one of the most valuable gifts a person can have. It gives us the ability to understand the world around us and solve problems in a better way. A knowledgeable person can make wise decisions and improve their life as well as the lives of others. Knowledge helps us succeed in school, work, and life. It gives us confidence and opens many doors of opportunity. For example, doctors use their knowledge to save lives, scientists use their knowledge to invent new things, and teachers use their knowledge to guide students.  
+   
+   Knowledge is like a light that removes the darkness of ignorance. It helps us understand what is right and wrong. With knowledge, we can overcome challenges and face difficulties with courage. It is also important to keep learning new things because knowledge grows when shared and used. However, knowledge must always be used for good purposes, not to harm others.  
+
+   In conclusion, knowledge is truly powerful. It helps us become better individuals and contribute to society. A person who values knowledge is respected by everyone and can achieve great success in life. Therefore, we must always strive to learn and grow.
+
+- **Answer:** Knowledge is a treasure that gives people the strength to achieve success and make a difference in the world. It helps us understand things clearly and solve problems effectively. A person with knowledge can think wisely, make better decisions, and lead others. Knowledge brings confidence and opens doors to new opportunities in life. For example, scientists use their knowledge to invent useful things, engineers create advanced technologies, and doctors treat illnesses.  
+
+   Knowledge is like a lamp that removes the darkness of ignorance and helps us see the right path. It empowers us to fight challenges and take control of our lives. With knowledge, we can contribute to the growth of society and help others. It is important to keep learning because the more knowledge we gain, the stronger we become. However, knowledge should always be used for good and never for harming others.  
+
+   In today’s world, knowledge plays an important role in shaping our future. It is not just about learning from books but also gaining experience and understanding the world around us. In conclusion, knowledge is a true source of power. We should respect it and use it to make the world a better place.
+
+
+### **2. Write a paragraph on the topic "Importance of Team Work"**.
+
+- **Answer:** Teamwork is very important because it helps people achieve goals that they cannot accomplish alone. When people work together, they can share their ideas, divide tasks, and support each other. This makes the work easier and faster. For example, in a cricket match, every player has a role, such as batting, bowling, or fielding. If all players work together, the team has a better chance of winning. Teamwork also teaches us valuable lessons like cooperation, patience, and respect for others. It helps us learn how to listen to different opinions and solve problems together. When we work as a team, we feel motivated because everyone encourages and helps each other. Teamwork is not only useful in games but also in studies and everyday life. For instance, when students work in groups for a school project, they can use each other’s strengths to create something great. It also helps build friendships and trust. Without teamwork, achieving success can be much harder. So, we should always try to work together and help each other to make things better and reach our goals. Teamwork is a key to success in every field of life.
+
+- **Answer:** Teamwork is essential because it allows people to combine their skills, ideas, and efforts to achieve a common goal. It is the foundation of success in many areas, such as education, sports, and workplaces. When people work together as a team, they can divide tasks according to individual strengths, making the work more efficient and manageable. For example, in a school project, each member can focus on specific parts, like research, writing, or presentation, which leads to better results. Teamwork also fosters communication and understanding among members, helping them solve problems and overcome challenges more effectively. 
+
+   In addition, teamwork teaches important values like cooperation, patience, and respect for others' opinions. It helps individuals build confidence as they feel supported and encouraged by their teammates. Successful teamwork requires listening, sharing responsibilities, and trusting one another, which strengthens relationships. In sports, for instance, players must rely on their teammates to win a match, as no single player can do everything alone. 
+
+   Overall, teamwork creates a positive environment where everyone works towards the same goal. It not only ensures success but also builds lasting bonds and develops skills that are useful throughout life. Hence, teamwork is a key to growth and achievement.
+
+
+### **3. Write a paragraph on the topic "Country you would like to visit"**.
+
+- **Answer:** The country I would like to visit is Japan. It is a beautiful country known for its rich culture, advanced technology, and natural beauty. Japan is called the "Land of the Rising Sun" because it is one of the first countries to see the sunrise each day. I want to see the cherry blossoms in spring, which make the whole place look magical. I am also excited to visit Mount Fuji, Japan's famous snow-covered mountain. Japanese food like sushi and ramen is very popular, and I would love to try it there. The cities, like Tokyo and Kyoto, have a mix of modern buildings and traditional temples. People in Japan are known for being polite and hardworking, and I admire that. I want to experience riding a bullet train, which is very fast and famous all over the world. Japan also has fun places like Disneyland and Universal Studios, which I would love to explore. Visiting Japan will teach me new things about their history, traditions, and way of life. I hope to go there someday and create wonderful memories.
+
+- **Answer:** The country I would most like to visit is Switzerland. It is a beautiful country known for its breathtaking landscapes, snow-covered mountains, and peaceful lakes. The Swiss Alps are famous for skiing and winter sports, and I would love to experience them. Switzerland is also known for its cleanliness, safety, and well-organized cities like Zurich, Geneva, and Lucerne. I am fascinated by the culture and traditions of Switzerland, such as their music, art, and festivals. The country is also famous for its delicious chocolates and cheeses, which I would enjoy tasting. Switzerland has a rich history and beautiful castles, like Chillon Castle, which I would love to explore. Another reason I want to visit Switzerland is its efficient public transport system, especially the scenic train rides like the Glacier Express, which offers a stunning view of the mountains and valleys.
+
+   I admire how the people of Switzerland value nature and protect their environment. The peaceful surroundings and fresh air would make my visit unforgettable. Exploring the cultural diversity, as Switzerland has multiple languages like German, French, and Italian, would be interesting too. Visiting Switzerland would be a dream come true, as it offers both natural beauty and a rich cultural experience.
