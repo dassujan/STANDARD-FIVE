@@ -86,7 +86,7 @@
 
 ### **Comprehension Questions**
 
-#### **Complete Question-Answer Set for "The Happy Prince"**
+#### **Answer these questions.**
 
 **1. Who was the Happy Prince? Why was he called "happy"?**  
 - **Answer:** The Happy Prince was a statue covered with thin leaves of fine gold and had sapphires for eyes. He was called "happy" because when he was alive, he lived in a palace and never saw sadness or suffering.
