@@ -510,7 +510,6 @@ Correct the misuse of homophones in the sentences below:
 **Write the antonyms:**
 - Big, Happy, Start, Buy, Hard
 
-
 **Choose the correct homophone:**
 
 6. He ___ (ate/eight) a sandwich.  
