@@ -1,6 +1,6 @@
-## Practice Set - 1
+### **Practice Set - 1**
 
-### **Subject-Verb Agreement (25 Questions)**  
+#### **Subject-Verb Agreement (25 Questions)**  
 Fill in the blanks with the correct verb form:  
 1. The dog ___ (bark/barks) at strangers.  
 2. The boys and girls ___ (is/are) playing in the park.  
@@ -23,9 +23,9 @@ Fill in the blanks with the correct verb form:
 19. Either my parents or my uncle ___ (is/are) coming to visit.  
 20. One of the boys ___ (has/have) broken the vase.  
  
-### **Tenses (50 Questions)**  
+#### **Tenses (50 Questions)**  
 
-#### **Simple Tenses (20 Questions)**  
+**Simple Tenses (20 Questions)**  
 Fill in the blanks with the correct verb form:  
 1. She ___ (write) a letter every day.  
 2. I ___ (watch) TV last night.  
@@ -37,60 +37,25 @@ Fill in the blanks with the correct verb form:
 8. The baby ___ (cry) loudly last night.  
 9. They ___ (build) a new house next year.  
 10. She ___ (dance) at the party yesterday.  
-11. I ___ (go) to the zoo tomorrow.  
-12. The teacher ___ (explain) the lesson yesterday.  
-13. The dog ___ (bark) at the thief last night.  
-14. We ___ (celebrate) my birthday next month.  
-15. He ___ (jump) into the pool yesterday.  
-16. They ___ (climb) the mountain last year.  
-17. She ___ (paint) the wall tomorrow.  
-18. The children ___ (play) in the park every evening.  
-19. My grandparents ___ (live) in a small village.  
-20. I ___ (eat) ice cream yesterday.
 
-#### **Continuous Tenses (15 Questions)**  
+**Continuous Tenses (15 Questions)**  
 Rewrite the sentences in the correct continuous tense:  
 1. I ___ (learn) dance at school. (Present Continuous)  
 2. He ___ (play) badminton with his friends. (Present Continuous)  
 3. They ___ (build) a sandcastle at the beach. (Past Continuous)  
 4. She ___ (study) for her exam. (Past Continuous)  
-5. We ___ (celebrate) Diwali with our family. (Future Continuous)  
-6. The aeroplane ___ (fly) in the sky. (Present Continuous)  
-7. My father ___ (repair) the car. (Past Continuous)  
-8. The children ___ (watch) a movie. (Future Continuous)  
-9. Polly ___ (read) a storybook. (Past Continuous)  
-10. I ___ (write) a letter to my grandmother. (Future Continuous)  
-11. The horses ___ (gallop) down the road. (Present Continuous)  
-12. My mother ___ (bake) a cake. (Past Continuous)  
-13. We ___ (play) the piano at the concert. (Future Continuous)  
-14. The boys ___ (clean) their room. (Present Continuous)  
-15. She ___ (paint) a beautiful picture. (Future Continuous).
 
-#### **Mixed Tenses (15 Questions)**  
+**Mixed Tenses (15 Questions)**  
 1. She ___ (go) to school every day. (Simple Present)  
 2. He ___ (go) to the park yesterday. (Simple Past)  
-3. I ___ (go) to the market tomorrow. (Simple Future)  
-4. The children ___ (play) football in the evening. (Present Continuous)  
-5. The teacher ___ (explain) the lesson when I entered. (Past Continuous)  
-6. We ___ (travel) to London next week. (Future Continuous)  
-7. She ___ (sing) beautifully in the concert yesterday. (Simple Past)  
-8. They ___ (watch) TV when the lights went off. (Past Continuous)  
-9. He ___ (write) a story by this time tomorrow. (Future Continuous)  
-10. I ___ (read) a novel every day. (Simple Present)  
-11. My brother ___ (finish) his homework last night. (Simple Past)  
-12. They ___ (study) for their exams right now. (Present Continuous)  
-13. We ___ (shop) at the mall tomorrow evening. (Future Continuous)  
-14. She ___ (help) her friend when the phone rang. (Past Continuous)  
-15. He ___ (prepare) for his speech right now. (Present Continuous)
  
-### **Forms of Verbs (25 Questions)**  
+#### **Forms of Verbs (25 Questions)**  
 
-#### **Identify the Form (10 Questions):**  
+**Identify the Form (10 Questions):**  
 Write the Present, Past, and Past Participle of these verbs:  
 - Come, Go, Write, Sing, Buy, Swim, Eat, Fly, See, Catch  
 
-#### **Rewrite Sentences (15 Questions):**  
-Rewrite the sentences using the correct forms of the verb in brackets:  
+**Rewrite Sentences (15 Questions):**  
 1. I ___ (write) a letter yesterday.  
 2. She ___ (go) to the market.  
 3. They ___ (swim) in the lake.  
@@ -226,7 +191,6 @@ Rewrite the sentences using the correct forms of the verb in brackets:
 29. They ___ (give) us a surprise gift.
 30. He has ___ (send) the letter already.
 
-
 ## Practice Set - 3
  
 ### **Subject-Verb Agreement (25 Questions)**  
@@ -357,6 +321,69 @@ Rewrite the sentences using the correct forms of the verb in brackets:
 18. We ___ (run/ran/run) a marathon last year.  
 19. She ___ (drink/drank/drunk) a glass of water.  
 20. The dog ___ (bite/bit/bitten) the stranger.  
+
+### **Vocabulary Practice Set 
+
+#### **Section A: Antonyms (Opposites)**  
+Choose the word that is opposite in meaning to the word in bold:  
+
+1. The surface of the table was **smooth**.  
+   i. bumpy		ii. soft		iii. rough		iv. shiny  
+
+2. The kitten looked **happy** after being fed.  
+   i. joyful		ii. cheerful		iii. playful		iv. sad  
+
+3. He was very **early** for school.  
+   i. on time		ii. punctual		iii. late		iv. hurried  
+
+4. The movie was quite **interesting**.  
+   i. boring		ii. fun		iii. exciting		iv. confusing  
+
+5. The room felt **bright** and cheerful.  
+   i. dark		ii. colorful		iii. light		iv. dull  
+
+#### **Section B: Homophones (Same sound, different meaning)**  
+Choose the correct word for each blank:  
+
+6. The baker used fresh ______ (flour/flower) for the cake.  
+7. She wore a beautiful red ______ (pear/pair) of shoes.  
+8. I heard a loud noise in the ______ (night/knight).  
+9. He has a pet ______ (hare/hair).  
+10. The poet wrote a heartfelt ______ (verse/verses).  
+
+#### **Section C: Homonyms (Same spelling, different meanings)**  
+Identify the correct meaning of the highlighted word:  
+
+11. The duck began to **quack** loudly.  
+    i. The sound a duck makes		ii. A type of bird  
+
+12. I placed the **log** in the fireplace.  
+    i. A piece of wood		ii. A written record  
+
+13. He will **lead** the team tomorrow.  
+    i. To guide		ii. A metal  
+
+14. The child picked up a small **rock**.  
+    i. A stone		ii. To dance  
+
+15. The singer gave a live **performance**.  
+    i. A musical show		ii. To work  
+
+#### **Section D: Fill in the Blanks (Mixed Vocabulary)**  
+16. The king sat on his golden ______ (throne/thrown).  
+17. I will ______ (buy/by) a gift for my friend.  
+18. The sun was shining in the clear ______ (blue/blew) sky.  
+19. She could not hear because of the loud ______ (noise/nose).  
+20. He gave me a ______ (plain/plane) sheet of paper to write on.  
+
+#### **Section E: Correct the Sentences (Homophones)**  
+Correct the misuse of homophones in the sentences below:  
+
+21. I saw a dear in the forest.  
+22. The baby cried because of a soar throat.  
+23. She bought a peace of cake for the picnic.  
+24. He missed the fairy to work today.  
+25. The wind blue strongly during the storm.  
 
 ## Practice Set - 4
  
