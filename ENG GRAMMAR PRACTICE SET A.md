@@ -462,13 +462,6 @@ Rewrite the sentences using the correct forms of the verb in brackets:
 4. They ___ (go/went/gone) to the park.  
 5. She ___ (sing/sang/sung) a beautiful song.  
 
-**Match the verb forms:**
-6. Begin:     (a) began, begun  
-7. Swim:     (b) swam, swum  
-8. Write:    (c) wrote, written  
-9. Bring:    (d) brought, brought  
-10. Choose:   (e) chose, chosen  
-
 **Rewrite using the specified form:**
 
 11. Rewrite in Past Tense: "She reads a story."  
