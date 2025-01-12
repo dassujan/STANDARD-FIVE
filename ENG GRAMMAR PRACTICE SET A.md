@@ -402,16 +402,16 @@ Correct the misuse of homophones in the sentences below:
 6. a) He go to school.  
    b) He goes to school.
    
-8. a) The team are practicing.  
+7. a) The team are practicing.  
    b) The team is practicing.
    
-10. a) She have finished her homework.  
+8. a) She have finished her homework.  
    b) She has finished her homework.
 
-12. a) They is going to the park.  
+9. a) They is going to the park.  
    b) They are going to the park.
 
-14. a) The children was happy.  
+10. a) The children was happy.  
     b) The children were happy.  
 
 **Correct the errors:**
@@ -422,21 +422,13 @@ Correct the misuse of homophones in the sentences below:
 14. The dog and the cat is playing.  
 15. She have completed the task.  
 
-**Match the columns:**
-
-16. He ___ (a) is eating lunch.  
-17. The books ___ (b) are on the table.  
-18. The girls ___ (c) have decorated the room.  
-19. My brother ___ (d) was helping me.  
-20. We ___ (e) are going to the park.  
-
 **Identify if the sentence is correct or incorrect:**
 
-21. She go to school every day.  
-22. I am playing football.  
-23. They has finished their work.  
-24. The team are practicing hard.  
-25. We was reading a book.
+16. She go to school every day.  
+17. I am playing football.  
+18. They has finished their work.  
+19. The team are practicing hard.  
+20. We was reading a book.
 
 ### **2. Tenses (Simple and Continuous Tenses) (25 Questions)**  
 
