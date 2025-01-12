@@ -322,7 +322,7 @@ Write the Present, Past, and Past Participle of these verbs:
 19. She ___ (drink/drank/drunk) a glass of water.  
 20. The dog ___ (bite/bit/bitten) the stranger.  
 
-### **Vocabulary Practice Set 
+### Vocabulary Practice Set 
 
 #### **Section A: Antonyms (Opposites)**  
 Choose the word that is opposite in meaning to the word in bold:  
