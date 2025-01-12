@@ -1,6 +1,6 @@
 ### **Practice Set - 1**
 
-#### **Subject-Verb Agreement (25 Questions)**  
+#### **Subject-Verb Agreement**  
 Fill in the blanks with the correct verb form:  
 1. The dog ___ (bark/barks) at strangers.  
 2. The boys and girls ___ (is/are) playing in the park.  
@@ -23,9 +23,9 @@ Fill in the blanks with the correct verb form:
 19. Either my parents or my uncle ___ (is/are) coming to visit.  
 20. One of the boys ___ (has/have) broken the vase.  
  
-#### **Tenses (50 Questions)**  
+#### **Tenses**  
 
-**Simple Tenses (20 Questions)**  
+**Simple Tenses**  
 Fill in the blanks with the correct verb form:  
 1. She ___ (write) a letter every day.  
 2. I ___ (watch) TV last night.  
@@ -38,24 +38,24 @@ Fill in the blanks with the correct verb form:
 9. They ___ (build) a new house next year.  
 10. She ___ (dance) at the party yesterday.  
 
-**Continuous Tenses (15 Questions)**  
+**Continuous Tenses**  
 Rewrite the sentences in the correct continuous tense:  
 1. I ___ (learn) dance at school. (Present Continuous)  
 2. He ___ (play) badminton with his friends. (Present Continuous)  
 3. They ___ (build) a sandcastle at the beach. (Past Continuous)  
 4. She ___ (study) for her exam. (Past Continuous)  
 
-**Mixed Tenses (15 Questions)**  
+**Mixed Tenses**  
 1. She ___ (go) to school every day. (Simple Present)  
 2. He ___ (go) to the park yesterday. (Simple Past)  
  
-#### **Forms of Verbs (25 Questions)**  
+#### **Forms of Verbs**  
 
-**Identify the Form (10 Questions):**  
+**Identify the Form:**  
 Write the Present, Past, and Past Participle of these verbs:  
 - Come, Go, Write, Sing, Buy, Swim, Eat, Fly, See, Catch  
 
-**Rewrite Sentences (15 Questions):**  
+**Rewrite Sentences:**  
 1. I ___ (write) a letter yesterday.  
 2. She ___ (go) to the market.  
 3. They ___ (swim) in the lake.  
@@ -74,7 +74,7 @@ Write the Present, Past, and Past Participle of these verbs:
 
 ## Practice Set - 2
 
-### **Section 1: Subject-Verb Agreement (20 questions)**
+### **Section 1: Subject-Verb Agreement**
 
 1. The cat ___ (chase/chases) the mouse.
 2. My friends and I ___ (is/are) playing basketball.
@@ -92,7 +92,7 @@ Write the Present, Past, and Past Participle of these verbs:
 14. Neither the dog nor the cat ___ (like/likes) the new food.
 15. The family ___ (was/were) preparing for the event.
 
-### **Section 2: Simple Tenses (30 questions)**
+### **Section 2: Simple Tenses**
 
 #### **Simple Present:**
 1. I ___ (go/goes) to the school every day.
@@ -130,7 +130,7 @@ Write the Present, Past, and Past Participle of these verbs:
 29. They ___ (will travel/travel) abroad next summer.
 30. She ___ (will help/help) us with the project.
 
-### **Section 3: Continuous Tenses (20 questions)**
+### **Section 3: Continuous Tenses**
 
 #### **Present Continuous:**
 1. I ___ (am/are) reading a book.
@@ -156,7 +156,7 @@ Write the Present, Past, and Past Participle of these verbs:
 19. He ___ (was/were) talking to his friends during the break.
 20. I ___ (was/were) writing a letter when the power went out.
 
-### **Section 4: Forms of Verbs (30 questions)**
+### **Section 4: Forms of Verbs**
 
 #### **Write the correct past or past participle form of the verb:**
 
@@ -193,7 +193,7 @@ Write the Present, Past, and Past Participle of these verbs:
 
 ## Practice Set - 3
  
-### **Subject-Verb Agreement (25 Questions)**  
+### **Subject-Verb Agreement**  
 **Fill in the blanks:**
 
 1. The boy ___ (go/goes) to the park every evening.  
@@ -243,7 +243,7 @@ Write the Present, Past, and Past Participle of these verbs:
 | 24. The boy and his dog...        | b) explains the topic clearly.  |
 | 25. I                             | a) are playing outside.         |
  
-### **Tenses (Simple and Continuous) (40 Questions)**  
+### **Tenses (Simple and Continuous)**  
 **Identify the tense in each sentence:**
 
 1. I play cricket every day.  
@@ -286,7 +286,7 @@ Write the Present, Past, and Past Participle of these verbs:
 | The children play in the garden.        | ___________________ |
 | They have completed their homework.     | ___________________ |  
  
-### **Forms of Verbs (35 Questions)**  
+### **Forms of Verbs**  
 **Fill in the blanks with the correct verb form:**
 
 1. She ___ (write/wrote/written) a letter yesterday.  
@@ -387,7 +387,7 @@ Correct the misuse of homophones in the sentences below:
 
 ## Practice Set - 4
  
-### **1. Subject-Verb Agreement (25 Questions)**  
+### **1. Subject-Verb Agreement**  
 
 **Fill in the blanks:**
 
@@ -430,7 +430,7 @@ Correct the misuse of homophones in the sentences below:
 19. The team are practicing hard.  
 20. We was reading a book.
 
-### **2. Tenses (Simple and Continuous Tenses) (25 Questions)**  
+### **2. Tenses (Simple and Continuous Tenses)**  
 
 **Identify the tense:**
 
@@ -472,7 +472,7 @@ Correct the misuse of homophones in the sentences below:
 24. She ___ (is singing/sang) beautifully now. (Present Continuous)  
 25. I ___ (was watching/will watch) TV last night. (Past Continuous)  
 
-### **3. Forms of Verbs (25 Questions)**  
+### **3. Forms of Verbs**  
 
 **Fill in the blanks with the correct verb form:**
 1. He ___ (write/wrote/written) a letter yesterday.  
@@ -497,7 +497,7 @@ Correct the misuse of homophones in the sentences below:
 19. I have ___ (do/did/done) my homework.  
 20. She ___ (drink/drank/drunk) a glass of water.  
 
-### **4. Vocabulary (Antonyms, Homophones, Homonyms) (25 Questions)**  
+### **4. Vocabulary (Antonyms, Homophones, Homonyms)**  
 
 **Write the antonyms:**
 - Big, Happy, Start, Buy, Hard
