@@ -469,15 +469,6 @@ Rewrite the sentences using the correct forms of the verb in brackets:
 9. Bring:    (d) brought, brought  
 10. Choose:   (e) chose, chosen  
 
-**Complete the table:**
-| Present | Past   | Past Participle |
-|---------|--------|-----------------|
-| Drive   | ___    | ___             |
-| Run     | ___    | ___             |
-| Fly     | ___    | ___             |
-| Catch   | ___    | ___             |
-| Build   | ___    | ___             |
-
 **Rewrite using the specified form:**
 
 11. Rewrite in Past Tense: "She reads a story."  
@@ -526,8 +517,4 @@ Rewrite the sentences using the correct forms of the verb in brackets:
 
 **Fill in the words with their antonyms:**
 
-21. Clean → (a) ___  
-22. Tall → (b) ___  
-23. Bright → (c) ___  
-24. Easy → (d) ___  
-25. Brave → (e) ___  
+- Clean, Tall, Bright, Easy, Brave
