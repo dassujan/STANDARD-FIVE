@@ -22,11 +22,6 @@ Fill in the blanks with the correct verb form:
 18. Everyone ___ (want/wants) to join the trip.  
 19. Either my parents or my uncle ___ (is/are) coming to visit.  
 20. One of the boys ___ (has/have) broken the vase.  
-21. Neither the teacher nor the students ___ (is/are) responsible for the mess.  
-22. Each of the children ___ (has/have) a gift.  
-23. Bread and butter ___ (is/are) my favorite breakfast.  
-24. The scissors ___ (is/are) on the table.  
-25. Both the girl and the boy ___ (was/were) absent yesterday.
  
 ### **Tenses (50 Questions)**  
 
@@ -131,11 +126,6 @@ Rewrite the sentences using the correct forms of the verb in brackets:
 13. Each of the students ___ (was/were) excited.
 14. Neither the dog nor the cat ___ (like/likes) the new food.
 15. The family ___ (was/were) preparing for the event.
-16. He ___ (run/runs) fast in races.
-17. The boy and his sister ___ (is/are) studying.
-18. The singer with her dancers ___ (was/were) performing on stage.
-19. You ___ (is/are) invited to the party.
-20. The teacher ___ (ask/asks) the question every day.
 
 ### **Section 2: Simple Tenses (30 questions)**
 
