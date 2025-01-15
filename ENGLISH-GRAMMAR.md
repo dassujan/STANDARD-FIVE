@@ -72,7 +72,7 @@ The Future Tense shows an action that will happen.
 - **Formation:** Subject + will/shall have been + verb-ing.
 - **Example:** By next year, they will have been living here for a decade.
  
-# **Subject-Verb Agreement**
+# **Subject-Verb Agreement: A Complete Explanation**
 
 ### **1. Basic Rule of Subject-Verb Agreement**
 - A singular subject takes a singular verb.
