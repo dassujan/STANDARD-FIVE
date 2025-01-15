@@ -1,3 +1,50 @@
+# **Forms of Verbs**
+
+Verbs are words that show actions, states, or conditions. Verbs can take different forms based on when the action happens (present, past, future) or how it relates to time. In this chapter, we will study the three main forms of verbs and how to use them.
+
+### **1. Present Form**
+- The present form is used for actions happening now or actions that happen regularly.
+- **Examples**:
+  - **Base form**: walk, talk, write.
+  - **Present form** (with "-s" or "-es" for singular subjects): walks, talks, writes.
+
+**Example Sentence**:
+- He **writes** a letter to his grandmother every Sunday.
+
+### **2. Past Form**
+- The past form tells us about actions that are already completed.
+- It is usually made by adding "-ed" to the verb, but some verbs are irregular and change completely.
+  - **Regular Verbs**: walk → walked, talk → talked.
+  - **Irregular Verbs**: write → wrote, go → went.
+
+**Example Sentence**:
+- She **wrote** a letter to her grandmother yesterday.
+
+### **3. Past Participle Form**
+- The past participle form is used with helping verbs like "has," "have," or "had" to show completed actions.
+- Regular verbs usually keep the same form as their past form (walked, talked).
+- Irregular verbs often change completely (written, gone).
+
+**Example Sentence**:
+- Poonam **has written** a letter to her grandmother.
+
+### **How to Use Verb Forms in Sentences**
+1. **Present Form**: Describes actions happening now or habits.
+   - Example: I **play** cricket every evening.
+
+2. **Past Form**: Describes actions that happened in the past.
+   - Example: I **played** cricket yesterday.
+
+3. **Past Participle Form**: Describes actions that have been completed.
+   - Example: I **have played** cricket many times this week.
+
+### **Important Points to Remember**
+1. Regular verbs add "-ed" in the past and past participle forms.
+   - Example: play → played → played.
+2. Irregular verbs change completely in the past and past participle forms.
+   - Example: eat → ate → eaten.
+3. Always use the correct helping verb with the past participle form (has, have, had).
+
 # **Tenses: A Complete Explanation**
 
 ### **Introduction to Tenses**
