@@ -408,7 +408,7 @@ _(For Class 5 ICSE Exam - Covers Multiples, Factors, Divisibility Rules, HCF, LC
 47. The **LCM of two prime numbers** is always ___.  
  
 
-### **📌 Data Handling Practice Set (Class 5 ICSE)**  
+### **📌 Data Handling Practice Set**  
 _(Pictographs, Bar Graphs, Pie Charts, and Line Graphs)_  
  
 
