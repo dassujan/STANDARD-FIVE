@@ -332,137 +332,7 @@
 19. He bought a new pare of shoes.  
 20. The sun rose in the mourning.  
 
-### **5. More Tense Practice**  
-
-**Fill in the blanks with the correct tense:**  
-
-1. The sun ___ (rise/rose/rises) in the east. *(Simple Present)*  
-2. They ___ (were playing/play) in the park when it started raining. *(Past Continuous)*  
-3. I ___ (will visit/visited) my grandmother next weekend. *(Simple Future)*  
-4. She ___ (reads/read) a novel every evening. *(Simple Present)*  
-5. He ___ (had finished/finished) his homework before dinner. *(Past Perfect)*  
-
-**Correct the tense mistakes in the sentences:**  
-
-6. She is go to the market now.  
-7. We was playing football when it rained.  
-8. He will writes a story tomorrow.  
-9. They eats lunch together every day.  
-10. She have completed her project.  
- 
-### **6. More Subject-Verb Agreement Practice**  
-
-**Fill in the blanks with the correct verb form:**  
-
-11. The news ___ (is/are) very shocking.  
-12. My parents ___ (is/are) very supportive.  
-13. Either she or her friend ___ (was/were) late to class.  
-14. Neither the teacher nor the students ___ (is/are) in the room.  
-15. A pack of wolves ___ (hunt/hunts) together.  
-
-**Identify if the sentence is correct or incorrect:**  
-
-16. The children plays in the garden.  
-17. He go to school every day.  
-18. The list of students are on the notice board.  
-19. The committee has decided on the event date.  
-20. She and her friend enjoys singing.  
- 
-### **7. More Forms of Verbs Practice**  
-
-**Match the verb forms correctly:**  
-
-| Base Form  | Past Simple  | Past Participle  |  
-|------------|-------------|------------------|  
-| Read      | ___         | ___              |  
-| Break      | ___         | ___              |  
-| Steal      | ___         | ___              |  
-| Teach      | ___         | ___              |  
-| Wear       | ___         | ___              |  
-
-**Fill in the blanks with the correct verb form:**  
-
-21. He has ___ (take/taken/took) his lunch.  
-22. The children ___ (run/ran/run) to the park yesterday.  
-23. She ___ (choose/chose/chosen) a red dress.  
-24. We have ___ (write/written/wrote) the exam.  
-25. They ___ (buy/bought/buy) a new car last week.  
-
-**Rewrite the sentences using the correct verb form:**  
-
-26. Rewrite in **Past Tense**: "She sings a song."  
-27. Rewrite in **Past Participle**: "He writes an essay."  
-28. Rewrite in **Present Tense**: "They ate lunch."  
-29. Rewrite in **Present Continuous**: "The baby slept peacefully."  
-30. Rewrite in **Past Continuous**: "I am reading a novel."  
- 
-### **8. More Vocabulary Practice (Antonyms, Homophones, and Homonyms)**  
-
-#### **A. Antonyms (Opposites)**  
-
-**Choose the opposite word for the word in bold:**  
-
-31. The weather was **hot**.  
-   a) warm		b) cold		c) humid		d) mild  
-
-32. The road was **narrow**.  
-   a) wide		b) thin		c) curvy		d) smooth  
-
-33. She was feeling **brave**.  
-   a) bold		b) weak		c) cowardly		d) scared  
-
-34. The bag was very **heavy**.  
-   a) bulky		b) large		c) light		d) tiny  
-
-35. The movie was **dull**.  
-   a) boring		b) exciting		c) slow		d) lengthy  
-
-#### **B. Homophones (Same Sound, Different Meaning)**  
-
-**Choose the correct homophone:**  
-
-36. I bought a new ___ (pair/pear) of shoes.  
-37. The clock struck ___ (two/too/to).  
-38. He cut his finger on a sharp ___ (bare/bear) of glass.  
-39. We will go to the park in an ___ (hour/our).  
-40. She made a chocolate ___ (flower/flour) cake.  
- 
-#### **C. Homonyms (Same Spelling, Different Meanings)**  
-
-**Choose the correct meaning of the bold word:**  
-
-41. The light was too **bright**.  
-   a) Intelligent		b) Not dark  
-
-42. He will **lead** the team tomorrow.  
-   a) To guide		b) A type of metal  
-
-43. The old **bank** was rebuilt.  
-   a) A place for money		b) The side of a river  
-
-44. She wore a diamond **ring**.  
-   a) A band for the finger		b) The sound of a bell  
-
-45. He hit the ball with a **bat**.  
-   a) A flying animal		b) A wooden stick  
- 
-#### **D. Fill in the blanks with the correct word (Homophones & Homonyms):**  
-
-46. He climbed to the ___ (peak/peek) of the mountain.  
-47. The children played in the ___ (sun/son).  
-48. She wore a golden ___ (throne/thrown).  
-49. The boy tied a ___ (knot/not) in the rope.  
-50. The ship sailed across the ___ (sea/see).  
- 
-#### **E. Correct the Sentences (Homophones and Homonyms):**  
-
-51. The deer ran across the road. *(Correct or Incorrect?)*  
-52. He took a brake from his work. *(Correct or Incorrect?)*  
-53. She red a book last night. *(Correct or Incorrect?)*  
-54. The wind blue strongly during the storm. *(Correct or Incorrect?)*  
-55. I saw a pear of birds sitting on the tree. *(Correct or Incorrect?)*  
-
-## **Practice Set - 100 Important Questions**  
+## **Practice Set - 3**  
 
 ### **Fill in the blanks**  
 
@@ -588,24 +458,19 @@
 ### **Homonyms (Same Spelling, Different Meanings)**  
 
 66. The duck began to **quack** loudly.  
-    a) The sound a duck makes  
-    b) A type of bird  
+   i. The sound a duck makes		ii. A type of bird  
 
 67. I placed the **log** in the fireplace.  
-    a) A piece of wood  
-    b) A written record  
+   i. A piece of wood		ii. A written record  
 
 68. He will **lead** the team tomorrow.  
-    a) To guide  
-    b) A metal  
+   i. To guide		ii. A metal  
 
 69. The child picked up a small **rock**.  
-    a) A stone  
-    b) To dance  
+   i. A stone		ii. To dance  
 
 70. The singer gave a live **performance**.  
-    a) A musical show  
-    b) To work  
+   i. A musical show		ii. To work
 
 ### **More Homophones**  
 
@@ -630,3 +495,136 @@
 83. He cut his finger on a sharp ___ (bare/bear) of glass.  
 84. We will go to the park in an ___ (hour/our).  
 85. She made a chocolate ___ (flower/flour) cake.  
+
+## **Practice Set - 4**  
+ 
+### **1. Fill in the blanks with the correct verb form:**  
+1. The teacher ___ (was/were) explaining the lesson.  
+2. The cat and the dog ___ (is/are) playing together.  
+3. My parents ___ (has/have) gone to the market.  
+4. The bouquet of roses ___ (is/are) very beautiful.  
+5. Either you or your friend ___ (is/are) responsible for this.  
+6. The leader and patriot ___ (was/were) honored by the people.  
+7. The team ___ (is/are) practicing for the match.  
+8. The birds ___ (fly/flies) to warmer places in winter.  
+9. The children ___ (has/have) completed their homework.  
+10. One of the boys ___ (has/have) broken the window.  
+ 
+### **2. Choose the correct sentence:**  
+11. a) She do not like apples.  
+      b) She does not like apples.  
+12. a) My brother and I is going to school.  
+      b) My brother and I are going to school.  
+13. a) The news are very exciting today.  
+      b) The news is very exciting today.  
+14. a) The books is on the table.  
+      b) The books are on the table.  
+15. a) He has finished his work.  
+      b) He have finished his work.  
+ 
+### **3. Correct the mistakes in the sentences:**  
+16. The cows eats grass in the field.  
+17. The team were happy after the match.  
+18. He have two pens in his bag.  
+19. They was going to the market.  
+20. The boy and his friend is playing cricket.  
+ 
+### **4. Identify the tense of each sentence:**  
+21. She is reading a book.  
+22. They played football yesterday.  
+23. We shall visit the museum tomorrow.  
+24. The birds are chirping on the tree.  
+25. He has completed his homework.  
+ 
+### **5. Fill in the blanks with the correct verb form (Simple Tenses):**  
+26. I ___ (go) to school every day.  
+27. He ___ (eat) vegetables every morning.  
+28. We ___ (watch) a movie last night.  
+29. She ___ (write) a letter yesterday.  
+30. They ___ (visit) their grandparents tomorrow.  
+ 
+### **6. Fill in the blanks with the correct verb form (Continuous Tenses):**  
+31. I ___ (am/are) reading a book.  
+32. He ___ (was/were) playing badminton with his friends.  
+33. They ___ (were/was) watching TV when I called.  
+34. She ___ (is/are) singing a song beautifully.  
+35. We ___ (were/was) studying when the bell rang.  
+ 
+### **7. Rewrite the sentences in the specified tense:**  
+36. Rewrite in Simple Past: "She cooks food."  
+37. Rewrite in Present Continuous: "I read a book."  
+38. Rewrite in Future Continuous: "They are playing football."  
+39. Rewrite in Simple Present: "He will write a letter."  
+40. Rewrite in Simple Future: "I played cricket."  
+ 
+### **8. Forms of Verbs (Present, Past, Past Participle):**  
+41. Write the correct past and past participle forms of: **come, go, sing, buy, eat, fly, see, catch, build, swim.**  
+42. Complete the table:  
+
+| Present  | Past  | Past Participle  |  
+|----------|--------|----------------|  
+| Write    | ___   | ___            |  
+| Catch    | ___   | ___            |  
+| Swim     | ___   | ___            |  
+| Forget   | ___   | ___            |  
+| Build    | ___   | ___            |  
+ 
+### **9. Correct the tense mistakes:**  
+47. She is writing a letter yesterday.  
+48. They plays football on Sundays.  
+49. He were running in the park.  
+50. We will be went to the zoo tomorrow.  
+ 
+### **10. Fill in the blanks with the correct tense:**  
+51. The children ___ (play) in the park now.  
+52. She ___ (write) a letter to her friend.  
+53. We ___ (watch) a movie last night.  
+54. He ___ (visit) his grandparents tomorrow.  
+55. I ___ (study) when you called me.  
+ 
+### **11. Antonyms (Opposites):**  
+56. Choose the word that is opposite in meaning to the word in bold:  
+57. The surface of the table was **smooth**. (a) rough (b) shiny (c) bumpy  
+58. The kitten looked **happy** after being fed. (a) sad (b) joyful (c) playful  
+59. The room felt **bright** and cheerful. (a) dark (b) dull (c) colorful  
+60. The movie was quite **interesting**. (a) boring (b) confusing (c) fun  
+ 
+### **12. Homophones (Same sound, different meaning):**  
+61. The baker used fresh ______ (flour/flower) for the cake.  
+62. She wore a beautiful red ______ (pear/pair) of shoes.  
+63. I heard a loud noise in the ______ (night/knight).  
+64. He has a pet ______ (hare/hair).  
+65. The poet wrote a heartfelt ______ (verse/verses).  
+ 
+### **13. Homonyms (Same spelling, different meanings):**  
+66. Identify the correct meaning of the highlighted word:  
+67. The duck began to **quack** loudly. (a) The sound a duck makes (b) A type of bird  
+68. I placed the **log** in the fireplace. (a) A piece of wood (b) A written record  
+69. He will **lead** the team tomorrow. (a) To guide (b) A metal  
+ 
+### **14. Vocabulary - Correct the Sentences (Homophones):**  
+70. I saw a dear in the forest.  
+71. The baby cried because of a soar throat.  
+72. She bought a peace of cake for the picnic.  
+73. He missed the fairy to work today.  
+74. The wind blue strongly during the storm.  
+ 
+### **15. Miscellaneous - Choose the correct sentence:**  
+75. a) The team are practicing.  
+      b) The team is practicing.  
+76. a) The children was happy.  
+      b) The children were happy.  
+77. a) She have completed the task.  
+      b) She has completed the task.  
+78. a) He go to school.  
+      b) He goes to school.  
+79. a) The group of singers were singing.  
+      b) The group of singers was singing.  
+ 
+### **16. Fill in the blanks with correct forms of verbs:**  
+80. She ___ (write) a letter yesterday.  
+81. They ___ (go) to the beach last summer.  
+82. I have ___ (eat) my lunch already.  
+83. The children have ___ (finish) their homework.  
+84. He ___ (buy) a new car last week.  
+85. The dog ___ (bite) the stranger.  
