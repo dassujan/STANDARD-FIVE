@@ -281,7 +281,7 @@ A line graph represents **the temperature in a city over 5 days**:
 
 # **Practice Set - 3**
 
-## **📌 Chapter 1: Decimals**  
+### **📌 Chapter 1: Decimals**  
 
 ### **1. Understanding Decimals & Place Value**  
 1. Write **three decimal numbers** between **4.1 and 4.2**.  
@@ -408,11 +408,11 @@ _(For Class 5 ICSE Exam - Covers Multiples, Factors, Divisibility Rules, HCF, LC
 47. The **LCM of two prime numbers** is always ___.  
  
 
-# **📌 Data Handling Practice Set (Class 5 ICSE)**  
+### **📌 Data Handling Practice Set (Class 5 ICSE)**  
 _(Pictographs, Bar Graphs, Pie Charts, and Line Graphs)_  
  
 
-## **1️⃣ Pictograph**  
+### **1️⃣ Pictograph**  
 _(Use a scale where **1 symbol = multiple items**)_
 
 A pictograph represents the **number of books borrowed from a library**:  
@@ -437,7 +437,7 @@ A pictograph represents the **number of books borrowed from a library**:
 10. How many books are borrowed **altogether** from the library?  
  
 
-## **2️⃣ Bar Graph**  
+### **2️⃣ Bar Graph**  
 _(Use a bar graph to analyze sales, temperature, rainfall, etc.)_
 
 A **bar graph** shows the number of **cups of tea sold in a café** over 5 days:  
@@ -461,7 +461,7 @@ A **bar graph** shows the number of **cups of tea sold in a café** over 5 days:
 19. If the café earned ₹5 per cup of tea, what was the total earning on Wednesday?  
 20. How many more cups of tea were sold on **Friday and Wednesday together** than on **Monday and Tuesday together**?  
 
-## **3️⃣ Pie Chart**  
+### **3️⃣ Pie Chart**  
 _(Analyze percentage-based data in a pie chart.)_
 
 A pie chart represents the **favorite school subjects** among students:  
@@ -486,7 +486,7 @@ A pie chart represents the **favorite school subjects** among students:
 30. If **50 students like Science**, how many total students were surveyed?  
  
 
-## **4️⃣ Line Graph**  
+### **4️⃣ Line Graph**  
 _(Analyze temperature, population trends, or sales growth over time.)_
 
 A **line graph** represents the **rainfall (in mm) in a city over 5 days**:  
