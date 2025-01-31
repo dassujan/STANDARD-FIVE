@@ -137,16 +137,6 @@
 9. She tied a ___ (knot/not) in the rope.  
 10. He read an interesting ___ (tail/tale) about a lion.  
 
-**Match the homonyms with their meanings:**  
-
-| Word          | Meaning 1                    | Meaning 2              |  
-|---------------|------------------------------|------------------------|  
-| Bat           | ___                          | ___                    |  
-| Bank          | ___                          | ___                    |  
-| Watch         | ___                          | ___                    |  
-| Rock          | ___                          | ___                    |  
-| Lead          | ___                          | ___                    |  
-
 **Correct the homophone errors in the sentences:**  
 
 11. The plain is flying in the sky.  
