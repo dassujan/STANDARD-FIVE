@@ -1,8 +1,8 @@
 ### **Practice Set - 1**
 
-### **Chapter 1: Decimals - Practice Set (40 Questions)**  
+### **Chapter 1: Decimals - Practice Set**  
 
-#### **1. Understanding Decimals & Place Value (10 Questions)**  
+#### **1. Understanding Decimals & Place Value**  
 1. Write the place value of 7 in **4.72**.  
 2. Write **5.036** in expanded form.  
 3. Convert **3/10** into a decimal.  
@@ -14,7 +14,7 @@
 9. Convert the decimal **0.75** into a fraction.  
 10. Express **2.3** as a mixed fraction.  
 
-#### **2. Converting Fractions & Decimals (10 Questions)**  
+#### **2. Converting Fractions & Decimals**  
 11. Convert **7/100** into a decimal.  
 12. Convert **0.09** into a fraction.  
 13. Convert **2 3/5** into a decimal.  
@@ -26,7 +26,7 @@
 19. Convert **0.008** into a fraction.  
 20. Convert **43/1000** into decimal form.  
 
-#### **3. Comparing, Ordering & Rounding Decimals (10 Questions)**  
+#### **3. Comparing, Ordering & Rounding Decimals**  
 21. Compare using >, <, or =: **4.02 __ 4.002**  
 22. Compare **1.79** and **1.097**. Which is greater?  
 23. Rewrite **8.3 and 8.35** as like decimals.  
@@ -38,7 +38,7 @@
 29. Which is greater: **5.19 or 5.91**?  
 30. Order these from least to greatest: **9.001, 9.1, 9.010, 9.099**.  
 
-#### **4. Operations on Decimals (10 Questions)**  
+#### **4. Operations on Decimals**  
 31. Add **4.56 + 3.48**.  
 32. Subtract **8.95 - 2.67**.  
 33. Multiply **3.2 × 2.5**.  
@@ -50,9 +50,9 @@
 39. Divide **36.75 ÷ 5**.  
 40. Divide **0.081 ÷ 0.9**.  
 
-### **Chapter 2: Multiples and Factors - Practice Set (30 Questions)**  
+### **Chapter 2: Multiples and Factors - Practice Set**  
 
-#### **1. Understanding Multiples & Factors (8 Questions)**  
+#### **1. Understanding Multiples & Factor**  
 41. List the first 5 multiples of **12**.  
 42. Find all factors of **24**.  
 43. Is **96** a multiple of **8**?  
@@ -62,7 +62,7 @@
 47. Find the **HCF of 18 and 27**.  
 48. Write two consecutive numbers that are co-prime.  
 
-#### **2. Divisibility Rules & Prime Numbers (8 Questions)**  
+#### **2. Divisibility Rules & Prime Number**  
 49. Check divisibility of **384** by **6**.  
 50. Which of the following is **a prime number**: **23, 33, 51, 97**?  
 51. Write the prime factors of **84**.  
@@ -72,7 +72,7 @@
 55. Are **7 and 11** twin primes?  
 56. What is the smallest prime number?  
 
-#### **3. Word Problems on HCF & LCM (8 Questions)**  
+#### **3. Word Problems on HCF & LC**  
 57. The LCM of two numbers is **24**, and one number is **8**. Find the other number.  
 58. The HCF of two numbers is **9**, and one number is **27**. Find the other number.  
 59. A farmer has **30 mangoes** and **45 apples**. He wants to pack them in equal-sized boxes. Find the largest number of fruits in each box.  
@@ -82,9 +82,9 @@
 63. The LCM of two numbers is **180**, and one number is **12**. Find the other number.  
 64. What is the relationship between HCF and LCM of two numbers?  
  
-### **Chapter 3: Percentage - Practice Set (30 Questions)**  
+### **Chapter 3: Percentage - Practice Set**  
 
-#### **1. Understanding & Converting Percentages (10 Questions)**  
+#### **1. Understanding & Converting Percentages**  
 65. Convert **3/5** into a percentage.  
 66. Convert **45%** into a fraction.  
 67. Convert **0.75** into a percentage.  
@@ -96,7 +96,7 @@
 73. Convert **125%** into a mixed fraction.  
 74. Express **40% of 250**.  
 
-#### **2. Finding Percentage of a Number (10 Questions)**  
+#### **2. Finding Percentage of a Number**  
 75. Find **12% of 600**.  
 76. What is **15% of 480**?  
 77. What is **60% of 150**?  
@@ -110,8 +110,8 @@
 
 ### **Practice Set - 2**
 
-### **Chapter 1: Decimals (40 Questions)**  
-#### **Understanding Decimals & Place Value (10 Questions)**  
+### **Chapter 1: Decimals**  
+#### **Understanding Decimals & Place Value**  
 1. Write the place value of **3** in **4.378**.  
 2. Expand **5.092** in fractional and decimal form.  
 3. Write **0.49** in words using both methods (point method & place value method).  
@@ -123,7 +123,7 @@
 9. Convert **12.05** into a mixed number.  
 10. Write three equivalent decimals for **0.4**.  
 
-#### **Comparing, Rounding & Operations (10 Questions)**  
+#### **Comparing, Rounding & Operations**  
 11. Convert **8.4, 8.41, and 8.1** into like decimals, then order them.  
 12. Round **4.756** to the nearest tenth and nearest hundredth.  
 13. Find the sum of **7.25 and 3.8**.  
@@ -135,7 +135,7 @@
 19. Solve: **0.75 + 1.3 - 0.45**.  
 20. Solve: **3.8 × 2.5 ÷ 5**.  
 
-#### **Story Sums (10 Questions)**  
+#### **Story Sums**  
 21. Rani bought 2.75 kg of sugar and 1.6 kg of flour. What is the total weight?  
 22. A bottle contains **0.85 L** of water. How much water will 5 bottles hold?  
 23. Rahul ran **2.35 km** on Monday and **1.9 km** on Tuesday. How far did he run in total?  
@@ -147,8 +147,8 @@
 29. A factory makes **3.75 kg of biscuits per hour**. How much will it make in **12 hours**?  
 30. A car consumes **2.5 L of petrol per 100 km**. How much petrol is needed for **600 km**?  
  
-### **Chapter 2: Multiples and Factors (40 Questions)**  
-#### **Understanding Multiples & Factors (10 Questions)**  
+### **Chapter 2: Multiples and Factors**  
+#### **Understanding Multiples & Factors**  
 31. Write the first five multiples of **12**.  
 32. Find all factors of **24**.  
 33. Find the common factors of **18 and 30**.  
@@ -160,7 +160,7 @@
 39. What is the smallest number divisible by **8, 12, and 15**?  
 40. The product of HCF and LCM of two numbers is **480**. If one number is **30**, find the other.  
 
-#### **Divisibility Rules (10 Questions)**  
+#### **Divisibility Rules**  
 41. Check divisibility of **245** by **5 and 10**.  
 42. Is **693** divisible by **3 and 9**?  
 43. Which digit should replace **x** in **12x4** to make it divisible by 4?  
@@ -172,15 +172,15 @@
 49. The HCF of two numbers is **1**. What are they called?  
 50. Give an example of two consecutive numbers that are co-prime.  
 
-#### **Story Sums (10 Questions)**  
+#### **Story Sums**  
 51. Harsha wants to arrange **96 chairs** in equal rows. How many chairs can she keep per row?  
 52. A shopkeeper has **150 chocolates**. He wants to pack them in boxes of **12 each**. How many boxes does he need?  
 53. A teacher has **24 pencils** and **32 erasers**. She wants to make **equal sets**. How many sets can she make?  
 54. Find the least number which when divided by **5, 7, and 9** leaves a remainder of **1** in each case.  
 55. A farmer packs oranges in **groups of 6, 8, or 10**. What is the least number of oranges he can have?  
  
-### **Chapter 3: Percentage (40 Questions)**  
-#### **Understanding Percentage (10 Questions)**  
+### **Chapter 3: Percentage**  
+#### **Understanding Percentage**  
 56. Write **¾** as a percentage.  
 57. Convert **0.35** into a percentage.  
 58. Convert **65%** into a fraction.  
@@ -192,7 +192,7 @@
 64. A test has **50 questions**. Ria got **80%** correct. How many did she get right?  
 65. A school’s total strength is **800 students**. **60%** are boys. Find the number of girls.  
 
-#### **Story Sums (10 Questions)**  
+#### **Story Sums**  
 66. A person spends **30% of ₹5000** on rent. How much is spent on rent?  
 67. A batsman scored **65% of 200 runs**. How many runs did he score?  
 68. The price of a mobile increased by **15%** from ₹8000. Find the new price.  
@@ -201,12 +201,12 @@
  
 
 ### **Chapter 4: Data Handling**  
-#### **Pictographs, Bar Graphs, and Pie Charts (10 Questions)**  
+#### **Pictographs, Bar Graphs, and Pie Charts**  
 - What is a **pictograph**?  
 - What is a **bar graph**?  
 - What does a **line graph** show?  
 
-#### **1. Pictograph (10 Questions)**  
+#### **1. Pictograph**  
 (Use a **scale** where **1 symbol = multiple items**)  
 
 A pictograph represents the number of **fruits sold in a store**:  
@@ -226,7 +226,7 @@ A pictograph represents the number of **fruits sold in a store**:
 5. Which fruit was sold the **most**?  
 6. Which fruit was sold the **least**?  
  
-#### **2. Bar Graph (10 Questions)**  
+#### **2. Bar Graph**  
 
 A bar graph shows the **weekly sales of ice cream** at a store:  
 
@@ -244,7 +244,7 @@ A bar graph shows the **weekly sales of ice cream** at a store:
 10. What is the **difference between the highest and lowest sales**?  
 11. If the store sells **50 ice creams on Saturday**, how would the bar graph change?  
  
-#### **3. Pie Chart (10 Questions)**  
+#### **3. Pie Chart**  
 
 A pie chart shows the **favorite sports of students** in a class:  
 
@@ -262,7 +262,7 @@ A pie chart shows the **favorite sports of students** in a class:
 16. If **50 students** were surveyed, how many **chose basketball**?  
 17. How many students **like tennis** if there are **200 students** in total?  
  
-#### **4. Line Graph (10 Questions)**  
+#### **4. Line Graph**  
 
 A line graph represents **the temperature in a city over 5 days**:  
 
@@ -281,9 +281,9 @@ A line graph represents **the temperature in a city over 5 days**:
 
 ### **Practice Set - 3**
 
-## **📌 Chapter 1: Decimals (50 Questions)**  
+## **📌 Chapter 1: Decimals**  
 
-### **1. Understanding Decimals & Place Value (10 Questions)**  
+### **1. Understanding Decimals & Place Value**  
 1. Write **three decimal numbers** between **4.1 and 4.2**.  
 2. Place **6.35, 6.5, and 6.305** on a place value chart.  
 3. What is the place value of **3 in 4.835**?  
@@ -295,7 +295,7 @@ A line graph represents **the temperature in a city over 5 days**:
 9. Convert **17.05 into a mixed number**.  
 10. Express **1.9 as hundredths**.  
 
-### **2. Converting Between Fractions and Decimals (10 Questions)**  
+### **2. Converting Between Fractions and Decimals**  
 11. Convert **3/8 into a decimal**.  
 12. Convert **0.75 into a fraction in lowest terms**.  
 13. Convert **2 ⅘ into a decimal**.  
@@ -307,7 +307,7 @@ A line graph represents **the temperature in a city over 5 days**:
 19. Convert **1.875 into a fraction**.  
 20. Convert **⅗ into a decimal**.  
 
-### **3. Comparing, Ordering & Rounding Decimals (10 Questions)**  
+### **3. Comparing, Ordering & Rounding Decimals**  
 21. Arrange in ascending order: **0.8, 0.75, 0.807, 0.785**.  
 22. Which is greater: **0.304 or 0.34**?  
 23. Find the missing number: **0.6 > ___ > 0.58**.  
@@ -319,8 +319,8 @@ A line graph represents **the temperature in a city over 5 days**:
 29. Which is the greatest: **7.9, 7.89, 7.099, 7.91**?  
 30. Fill in the blank: **4.89 < ___ < 4.91**.  
 
-### **4. Operations on Decimals (20 Questions)**  
-#### **(A) Addition & Subtraction of Decimals (10 Questions)**  
+### **4. Operations on Decimals**  
+#### **(A) Addition & Subtraction of Decimals**  
 31. Add **4.32 + 2.9**.  
 32. Subtract **7.6 - 4.35**.  
 33. Sum of **3.24, 0.786, and 5.8**.  
@@ -332,7 +332,7 @@ A line graph represents **the temperature in a city over 5 days**:
 39. Find: **12.9 + 4.01 – 3.4**.  
 40. Solve **7.505 – 2.125**.  
 
-#### **(B) Multiplication & Division of Decimals (10 Questions)**  
+#### **(B) Multiplication & Division of Decimals**  
 41. Multiply **0.4 × 0.7**.  
 42. Multiply **6.25 × 4**.  
 43. Multiply **0.08 × 10**.  
@@ -344,10 +344,10 @@ A line graph represents **the temperature in a city over 5 days**:
 49. Multiply **0.24 × 100**.  
 50. Divide **25.2 by 6**.  
 
-### **📌 Chapter 2: Multiples & Factors - 40 Practice Questions**  
+### **📌 Chapter 2: Multiples & Factors**  
 _(For Class 5 ICSE Exam - Covers Multiples, Factors, Divisibility Rules, HCF, LCM, and Prime Numbers)_  
 
-### **1️⃣ Understanding Multiples (10 Questions)**  
+### **1️⃣ Understanding Multiples**  
 1. Write the **first five multiples** of **9**.  
 2. Find the **first three common multiples** of **4 and 6**.  
 3. Find the **smallest multiple** of **15 that is greater than 50**.  
@@ -360,7 +360,7 @@ _(For Class 5 ICSE Exam - Covers Multiples, Factors, Divisibility Rules, HCF, LC
 10. Find the **first four common multiples of 3 and 5**.  
  
 
-### **2️⃣ Understanding Factors (10 Questions)**  
+### **2️⃣ Understanding Factors**  
 11. List all the **factors of 24**.  
 12. What are the **factors of 42**?  
 13. Which numbers between **1 and 20** have **exactly three factors**?  
@@ -372,7 +372,7 @@ _(For Class 5 ICSE Exam - Covers Multiples, Factors, Divisibility Rules, HCF, LC
 19. If a number has **only two factors**, what kind of number is it?  
 20. What is the **difference between a factor and a multiple**?   
 
-### **3️⃣ Divisibility Rules (10 Questions)**  
+### **3️⃣ Divisibility Rules**  
 21. Check if **345 is divisible by 3** using the divisibility rule.  
 22. Is **4,120 divisible by 5**? Why?  
 23. A number is divisible by **both 2 and 5**. What other number must it be divisible by?  
@@ -384,14 +384,14 @@ _(For Class 5 ICSE Exam - Covers Multiples, Factors, Divisibility Rules, HCF, LC
 29. Which of the following numbers is **divisible by 11**? **462, 7315, 9876**.  
 30. A number is divisible by **both 2 and 3**. What other number must it be divisible by?  
 
-### **4️⃣ Prime and Composite Numbers (5 Questions)**  
+### **4️⃣ Prime and Composite Number**  
 31. Write all the **prime numbers between 10 and 50**.  
 32. What is the smallest **odd prime number**?  
 33. Identify whether **57 is prime or composite**.  
 34. Find the **sum of all prime numbers** between **1 and 10**.  
 35. Write the **next three prime numbers after 50**.  
 
-### **5️⃣ Highest Common Factor (HCF) (7 Questions)**  
+### **5️⃣ Highest Common Factor (HCF**  
 36. Find the **HCF of 12 and 18**.  
 37. Find the **HCF of 36, 48, and 60**.  
 38. Find the HCF of **8 and 32** using the **prime factorization method**.  
@@ -400,7 +400,7 @@ _(For Class 5 ICSE Exam - Covers Multiples, Factors, Divisibility Rules, HCF, LC
 41. Find the **HCF of 45 and 75**.  
 42. If one number is a **multiple of another**, what is their HCF?  
  
-### **6️⃣ Lowest Common Multiple (LCM) (5 Questions)**  
+### **6️⃣ Lowest Common Multiple (LCM**  
 43. Find the **LCM of 10 and 15**.  
 44. Find the **LCM of 6, 9, and 12** using the **prime factorization method**.  
 45. Find the **LCM of 8 and 12**.  
@@ -412,7 +412,7 @@ _(For Class 5 ICSE Exam - Covers Multiples, Factors, Divisibility Rules, HCF, LC
 _(Pictographs, Bar Graphs, Pie Charts, and Line Graphs)_  
  
 
-## **1️⃣ Pictograph (10 Questions)**  
+## **1️⃣ Pictograph**  
 _(Use a scale where **1 symbol = multiple items**)_
 
 A pictograph represents the **number of books borrowed from a library**:  
@@ -437,7 +437,7 @@ A pictograph represents the **number of books borrowed from a library**:
 10. How many books are borrowed **altogether** from the library?  
  
 
-## **2️⃣ Bar Graph (10 Questions)**  
+## **2️⃣ Bar Graph**  
 _(Use a bar graph to analyze sales, temperature, rainfall, etc.)_
 
 A **bar graph** shows the number of **cups of tea sold in a café** over 5 days:  
@@ -461,7 +461,7 @@ A **bar graph** shows the number of **cups of tea sold in a café** over 5 days:
 19. If the café earned ₹5 per cup of tea, what was the total earning on Wednesday?  
 20. How many more cups of tea were sold on **Friday and Wednesday together** than on **Monday and Tuesday together**?  
 
-## **3️⃣ Pie Chart (10 Questions)**  
+## **3️⃣ Pie Chart**  
 _(Analyze percentage-based data in a pie chart.)_
 
 A pie chart represents the **favorite school subjects** among students:  
@@ -486,7 +486,7 @@ A pie chart represents the **favorite school subjects** among students:
 30. If **50 students like Science**, how many total students were surveyed?  
  
 
-## **4️⃣ Line Graph (10 Questions)**  
+## **4️⃣ Line Graph**  
 _(Analyze temperature, population trends, or sales growth over time.)_
 
 A **line graph** represents the **rainfall (in mm) in a city over 5 days**:  
@@ -512,7 +512,7 @@ A **line graph** represents the **rainfall (in mm) in a city over 5 days**:
 
 ### **Practice Set -  Word Problems**
 
-### **1️⃣ Decimals Word Problems (Story Sums) (20 Questions)**  
+### **1️⃣ Decimals Word Problems (Story Sums)**  
 _(Covers addition, subtraction, multiplication, and division of decimals)_  
 
 1. **Mr. Kirmani** drove **36.8 km before lunch** and **12.9 km after lunch**. How far did he drive that day?  
@@ -537,7 +537,7 @@ _(Covers addition, subtraction, multiplication, and division of decimals)_
 20. **A shopkeeper sold rice at ₹48.25 per kg**. How much will **4.5 kg of rice** cost?  
  
 
-### **2️⃣ Multiples & Factors Word Problems (Story Sums) (10 Questions)**  
+### **2️⃣ Multiples & Factors Word Problems (Story Sums)**  
 _(Covers LCM, HCF, and Prime Factors)_  
 
 21. **Harsha** needs to set up **319 chairs** for a concert. She wants to put the **same number of chairs in each row with no chairs left over**. What numbers of chairs could she put in each row?  
@@ -552,7 +552,7 @@ _(Covers LCM, HCF, and Prime Factors)_
 30. **Find the LCM of 24, 36, and 48** to determine the earliest time when all three numbers appear as multiples.  
  
 
-### **3️⃣ Percentage Word Problems (Story Sums) (10 Questions)**  
+### **3️⃣ Percentage Word Problems (Story Sums)**  
 
 31. **A shop gives a 15% discount on a ₹800 item**. What is the discount and final price?  
 32. **A class has 50 students**. If **40% are girls**, how many girls are in the class?  
