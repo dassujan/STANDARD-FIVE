@@ -1,4 +1,4 @@
-### **Practice Set - 1**
+# **Practice Set - 1**
 
 ### **Chapter 1: Decimals - Practice Set**  
 
@@ -108,7 +108,7 @@
 83. If a student gets **70 marks out of 200**, find the percentage.  
 84. What is **8% of 500**?  
 
-### **Practice Set - 2**
+# **Practice Set - 2**
 
 ### **Chapter 1: Decimals**  
 #### **Understanding Decimals & Place Value**  
@@ -279,7 +279,7 @@ A line graph represents **the temperature in a city over 5 days**:
 20. What **trend** does the line graph show?  
 21. What is the **difference between the highest and lowest temperatures**?  
 
-### **Practice Set - 3**
+# **Practice Set - 3**
 
 ## **📌 Chapter 1: Decimals**  
 
