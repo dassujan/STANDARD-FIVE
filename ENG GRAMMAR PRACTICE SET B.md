@@ -472,30 +472,6 @@
 70. The singer gave a live **performance**.  
    i. A musical show		ii. To work
 
-### **More Homophones**  
-
-71. The king sat on his golden ___ (throne/thrown).  
-72. I will ___ (buy/by) a gift for my friend.  
-73. The sun was shining in the clear ___ (blue/blew) sky.  
-74. She could not hear because of the loud ___ (noise/nose).  
-75. He gave me a ___ (plain/plane) sheet of paper.  
-
-### **Correct the Sentences (Homophones & Homonyms)**  
-
-76. I saw a dear in the forest.  
-77. The baby cried because of a soar throat.  
-78. She bought a peace of cake.  
-79. He missed the fairy to work today.  
-80. The wind blue strongly during the storm.  
-
-### **More Vocabulary Exercises**  
-
-81. She tied a ___ (knot/not) in the rope.  
-82. The ship sailed across the ___ (sea/see).  
-83. He cut his finger on a sharp ___ (bare/bear) of glass.  
-84. We will go to the park in an ___ (hour/our).  
-85. She made a chocolate ___ (flower/flour) cake.  
-
 ## **Practice Set - 4**  
  
 ### **1. Fill in the blanks with the correct verb form:**  
