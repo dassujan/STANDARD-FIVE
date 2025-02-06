@@ -43,11 +43,7 @@ Light is a form of energy that helps us see things. It has the following propert
 **Answer:** Machines are devices that help us do work easily and quickly. They reduce human effort and save time. Examples include scissors, knives, and pulleys.  
 
 #### **2. What are simple machines? Give some examples.**  
-**Answer:** Simple machines are machines that do not have multiple working parts. Examples include:  
-- Knife  
-- Scissors  
-- Spoon  
-- Pulley  
+**Answer:** Simple machines are machines that do not have multiple working parts. Examples include: Knife, Scissors, Spoon, Pulley  
 
 #### **3. What is a lever? What are its parts?**  
 **Answer:** A **lever** is a simple machine that consists of a rigid rod that moves around a fixed point. It has three parts:  
