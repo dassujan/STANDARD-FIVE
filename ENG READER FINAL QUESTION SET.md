@@ -78,16 +78,13 @@
 ## **G. Who Said to Whom?** *(2 Marks Each – 6 Marks)*  
 
 1. **"You are blind now, so I cannot leave you."**  
-   - **Who Said:** _______  
-   - **To Whom:** _______  
+   - Who said this? To whom?
 
 2. **"Take this sapphire to the poor girl, so she may buy food and wood."**  
-   - **Who Said:** _______  
-   - **To Whom:** _______  
+   - Who said this? To whom?
 
 3. **"I feel warm, though it is so cold."**  
-   - **Who Said:** _______  
-   - **To Whom:** _______  
+   - Who said this? To whom?
 
 ## **H. Short Answer Questions** *(3 Marks Each – 12 Marks)*  
 
