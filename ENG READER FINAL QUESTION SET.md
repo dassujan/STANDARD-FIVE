@@ -41,7 +41,15 @@
     a) His sharp teeth      b) His ability to fly  
     c) His ability to move his eyes in different directions      d) His powerful legs 
  
-## **B. Match Column A with Column B** *(1 Mark Each – 5 Marks)*  
+## **B. Fill-in-the-Blanks Questions** *(1 Mark Each – 5 Marks)*  
+
+1. The Happy Prince was covered in _______ and had _______ eyes.  
+2. Henry’s eyes could move _______ in different directions.  
+3. The swallow delayed his journey to _______ to help the Happy Prince.  
+4. _______ travel underground, making tunnels.  
+5. The Happy Prince gave his _______ to help the poor and needy. 
+
+## **C. Match Column A with Column B** *(1 Mark Each – 5 Marks)*  
 
 | **Column A**                  | **Column B**                       |  
 |--------------------------------|-----------------------------------|  
@@ -49,15 +57,7 @@
 | 2. The Swallow                | b) Helped the poor and hungry    |  
 | 3. The Little Match Girl      | c) Received a sapphire           |  
 | 4. Henry the Chameleon        | d) Stayed with the Happy Prince  |  
-| 5. Tree roots                 | e) Grow deep underground         |  
- 
-## **C. Fill-in-the-Blanks Questions** *(1 Mark Each – 5 Marks)*  
-
-1. The Happy Prince was covered in _______ and had _______ eyes.  
-2. Henry’s eyes could move _______ in different directions.  
-3. The swallow delayed his journey to _______ to help the Happy Prince.  
-4. _______ travel underground, making tunnels.  
-5. The Happy Prince gave his _______ to help the poor and needy.  
+| 5. Tree roots                 | e) Grow deep underground         |   
  
 ## **D. True/False Statements** *(1 Mark Each – 5 Marks)*  
 
