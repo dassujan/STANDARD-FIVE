@@ -2,35 +2,44 @@
 *(Choose the correct option.)*  
 
 1. What was Henry’s most remarkable possession?  
-   a) His long tongue     b) His sharp claws
+   a) His long tongue     b) His sharp claws  
    c) His independently moving eyes     d) His colorful skin  
 
-3. Why did the swallow feel warm even in the cold winter?  
-   a) He had thick feathers     b) He was sitting on the Happy Prince’s shoulder     c) Helping others made him feel warm inside     d) The Happy Prince gave him a golden coat  
+2. Why did the swallow feel warm even in the cold winter?  
+   a) He had thick feathers     b) He was sitting on the Happy Prince’s shoulder  
+   c) Helping others made him feel warm inside     d) The Happy Prince gave him a golden coat  
 
-4. What happened to the Happy Prince’s statue in the end?  
-   a) It was taken to a museum     b) It was melted, but the heart did not melt     c) It was covered in gold again     d) It was given to the king  
+3. What happened to the Happy Prince’s statue in the end?  
+   a) It was taken to a museum     b) It was melted, but the heart did not melt  
+   c) It was covered in gold again     d) It was given to the king  
 
-5. What did the Happy Prince ask the swallow to do with his fine gold leaves?  
-   a) Sell them     b) Give them to the poor     c) Hide them from the city council     d) Send them to Egypt  
+4. What did the Happy Prince ask the swallow to do with his fine gold leaves?  
+   a) Sell them     b) Give them to the poor  
+   c) Hide them from the city council     d) Send them to Egypt  
 
-6. What is found underground, according to the poem?  
-   a) Rivers and lakes     b) Hidden treasures and roots     c) Mountains and valleys     d) Houses and castles  
+5. What is found underground, according to the poem?  
+   a) Rivers and lakes     b) Hidden treasures and roots  
+   c) Mountains and valleys     d) Houses and castles  
 
-7. How did the little match girl feel when she received the sapphire?  
-   a) Angry     b) Excited and happy     c) Confused     d) Scared  
+6. How did the little match girl feel when she received the sapphire?  
+   a) Angry     b) Excited and happy  
+   c) Confused     d) Scared  
 
-8. Why did the swallow kiss the Happy Prince before dying?  
-   a) To say goodbye and show love     b) To ask for food     c) To thank him for the gold     d) Because the Prince asked him to  
+7. Why did the swallow kiss the Happy Prince before dying?  
+   a) To say goodbye and show love     b) To ask for food  
+   c) To thank him for the gold     d) Because the Prince asked him to  
 
-9. What happened to the swallow at the end of the story?  
-   a) He flew to another city     b) He built a nest in the palace     c) He died in the cold beside the Happy Prince     d) He turned into gold  
+8. What happened to the swallow at the end of the story?  
+   a) He flew to another city     b) He built a nest in the palace  
+   c) He died in the cold beside the Happy Prince     d) He turned into gold  
 
-10. What do tree roots do underground?  
-   a) Keep the tree alive     b) Collect gold      c) Build houses     d) Help birds  
+9. What do tree roots do underground?  
+   a) Keep the tree alive     b) Collect gold  
+   c) Build houses     d) Help birds  
 
-11. What makes Henry different from other animals?  
-    a) His sharp teeth      b) His ability to fly      c) His ability to move his eyes in different directions      d) His powerful legs  
+10. What makes Henry different from other animals?  
+    a) His sharp teeth      b) His ability to fly  
+    c) His ability to move his eyes in different directions      d) His powerful legs 
  
 ## **B. Match Column A with Column B** *(1 Mark Each – 5 Marks)*  
 
