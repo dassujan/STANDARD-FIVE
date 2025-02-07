@@ -8,10 +8,15 @@ A: Dispersal of seeds is the process by which seeds are spread away from the par
 
 **Q3. Explain the methods of seed dispersal?**  
 A: Seeds are dispersed by various methods such as:
-- **Dispersal by Wind:** Some seeds are very light and have special structures like wings or hairs to help them float in the air. (e.g., dandelion, cotton seeds)
-- **Dispersal by Water:** Seeds that grow near or in water have a waterproof covering and can float to new places. (e.g., coconut, lotus seeds)
-- **Dispersal by Animals:** Some seeds stick to animals' fur or feathers, while others are eaten and later dropped in different locations. (e.g., berries, mango seeds)
-- **Dispersal by Explosion (Self-dispersal):** Some plants have seed pods that burst open when dry, scattering the seeds around. (e.g., pea, balsam seeds)
+- **Dispersal by Wind** – Some seeds are very light and have special structures like wings or hair-like fibers that help them float in the air and get carried by the wind.  
+   *Examples:* Dandelion, Cotton, Maple seeds.
+- **Dispersal by Water** – Seeds of plants that grow near or in water have a waterproof outer covering, which helps them float and travel through water to new places.  
+   *Examples:* Coconut, Lotus, Water lily.
+- **Dispersal by Animals** – Animals help in seed dispersal in two ways:  
+   - Some seeds have hooks or sticky surfaces that attach to the fur of animals and are carried away. *Example:* Xanthium (burdock).  
+   - Some seeds are found inside fruits, and when animals eat the fruit, they drop the seeds in different places. *Examples:* Mango, Guava, Cherry.
+- **Dispersal by Explosion (Self-dispersal)** – Some plants have seed pods that dry up and burst open suddenly, scattering the seeds in different directions.  
+   *Examples:* Pea, Balsam, Poppy.
 
 **Q4. What is vegetative reproduction?**  
 A: Vegetative reproduction is a type of asexual reproduction where new plants grow from parts of the parent plant such as roots, stems, or leaves. Examples include potato (from stem tubers) and onion (from bulbs).
