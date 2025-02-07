@@ -170,27 +170,15 @@ A: Pulleys are used in:
 42. What is a wedge? How is it useful?  
 43. What happens when light falls on an opaque object? Explain with an example.  
 44. How is a lunar eclipse different from a solar eclipse?  
-45. Explain three types of simple machines.  
- 
-### **F. Categorization (Match the Following)**  
-46. Match the tools with their types of simple machines:  
 
-| **Tools**          | **Type of Simple Machine** |
-|-------------------|----------------------|
-| Nut cracker      | _______              |
-| Scissors        | _______              |
-| Roller skates   | _______              |
-| Flagpole        | _______              |
-| Knife          | _______              |
-
-47. Categorize the following objects as Transparent, Translucent, or Opaque:  
+45. Categorize the following objects as Transparent, Translucent, or Opaque:  
    - Glass window, Frosted glass, Wooden door  
 
-48. Identify the type of lever for the following:  
+46. Identify the type of lever for the following:  
    - Fishing rod, See-saw, Bottle opener  
 
-49. Arrange the following in increasing order of light passing through:  
+47. Arrange the following in increasing order of light passing through:  
    - Butter paper, clear plastic, Brick wall  
 
-50. Identify the method of seed dispersal for the following:  
+48. Identify the method of seed dispersal for the following:  
    - Maple, Coconut, Mango, Pea  
