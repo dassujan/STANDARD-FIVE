@@ -94,3 +94,103 @@ A: Pulleys are used in:
 - Drawing water from wells
 - Raising flags
 - Lifting heavy loads in cranes
+
+
+### SCIENCE PRACTICE QUESTIONS
+
+### **A. Multiple Choice Questions (MCQs)** (Tick the correct answer)  
+1. Which of the following is a first-order lever?  
+   (a) Bottle opener     (b) Scissors     (c) Knife     (d) Broom  
+
+2. The Moon comes between the Sun and the Earth during a:  
+   (a) Lunar eclipse     (b) Solar eclipse     (c) New Moon     (d) Full Moon  
+
+3. Which type of simple machine is a wheelbarrow?  
+   (a) Class I lever     (b) Class II lever     (c) Class III lever     (d) Pulley  
+
+4. Which part of a lever is the fixed point around which it moves?  
+   (a) Load     (b) Effort     (c) Fulcrum     (d) Axle  
+
+5. Which type of objects allow light to pass through completely?  
+   (a) Transparent     (b) Translucent     (c) Opaque     (d) None of these  
+
+6. A coconut is dispersed by:  
+   (a) Wind     (b) Water     (c) Animals     (d) Explosion  
+
+7. The force applied on a lever to do work is called:  
+   (a) Load     (b) Effort     (c) Fulcrum     (d) Pulley  
+
+8. What is the source of light that causes day and night on Earth?  
+   (a) Moon     (b) Stars     (c) Sun     (d) Planets  
+
+9. A pulley is mainly used to:  
+   (a) Cut objects     (b) Lift heavy loads     (c) Hold things together     (d) Push an object forward  
+
+10. The shadow of an object is **longest** during:  
+   (a) Noon     (b) Morning and evening     (c) Midnight     (d) Afternoon  
+ 
+### **B. Fill in the Blanks**  
+11. Earth rotates from ______ to ______.  
+12. Transparent objects allow ______ to pass through them.  
+13. A bottle opener is a lever of ______ order.  
+14. A single fixed pulley is used to draw ______ from wells.  
+15. A ______ is an inclined plane wrapped around a cylinder.  
+16. The ______ is the object on which work is done in a lever.  
+17. A ______ is a wheel with a grooved rim and a rope used to lift heavy loads.  
+18. A ______ is used to hold things together and is better than nails.  
+19. A pea plant disperses its seeds by ______.  
+20. The shadow of an object is shorter at ______.  
+ 
+### **C. Define the Following**  
+21. Shadow  
+22. Eclipse  
+23. Opaque objects  
+24. Lever  
+25. Machine  
+ 
+### **D. Answer the Following in Short**  
+26. What is an eclipse? Name the two types of eclipses.  
+27. Name the six types of simple machines.  
+28. What are the three parts of a lever?  
+29. Explain how a pulley works.  
+30. Name two examples of transparent, translucent, and opaque objects.  
+31. How does a screw work?  
+32. Give two examples of each type of lever.  
+33. How are shadows formed?  
+34. What is the difference between a simple and a complex machine?  
+35. What is the difference between a solar and a lunar eclipse?  
+ 
+### **E. Answer in Detail**  
+36. Explain the different methods of seed dispersal with examples.  
+37. How is day and night formed? Explain with reasoning.  
+38. Describe the three types of levers with examples.  
+39. What are the properties of shadows?  
+40. Discuss the need for machines in our daily lives.  
+41. Explain the working of a first-order lever with an example.  
+42. What is a wedge? How is it useful?  
+43. What happens when light falls on an opaque object? Explain with an example.  
+44. How is a lunar eclipse different from a solar eclipse?  
+45. Explain three types of simple machines.  
+ 
+### **F. Categorization (Match the Following)**  
+46. Match the tools with their types of simple machines:  
+
+| **Tools**          | **Type of Simple Machine** |
+|-------------------|----------------------|
+| Nut cracker      | _______              |
+| Scissors        | _______              |
+| Roller skates   | _______              |
+| Flagpole        | _______              |
+| Knife          | _______              |
+
+47. Categorize the following objects as Transparent, Translucent, or Opaque:  
+   - Glass window, Frosted glass, Wooden door  
+
+48. Identify the type of lever for the following:  
+   - Fishing rod, See-saw, Bottle opener  
+
+49. Arrange the following in increasing order of light passing through:  
+   - Butter paper, clear plastic, Brick wall  
+
+50. Identify the method of seed dispersal for the following:  
+   - Maple, Coconut, Mango, Pea  
